@@ -1,45 +1,43 @@
 #EXTM3U
-#EXTINF:0,[TR] 24 KITCHEN
+#EXTINF:0,[TR] 24 Kitchen
 http://ip.sltv.be:8000/live/maria123/maria123/128753.m3u8
 #EXTINF:0,beIN GURME
 http://145.239.1.103:8000/live/melik/123456/207.ts
 #EXTINF:0,Planet Mutfak
 http://145.239.1.103:8000/live/melik/123456/5475.ts
-#EXTINF:0,[TR] FX SD [L]
+#EXTINF:0,FX
 http://145.239.1.103:8000/live/melik/123456/2387.ts
 #EXTINF:0,TLC
 http://145.239.1.103:8000/live/melik/123456/2361.ts
-#EXTINF:0,[TR] LIFETIME CHANNEL
+#EXTINF:0,Lifetime
 http://145.239.1.103:8000/live/melik/123456/5477.ts
-#EXTINF:0,[TR] DMAX
+#EXTINF:0,DMAX
 http://145.239.1.103:8000/live/melik/123456/1995.ts
-#EXTINF:0,[TR] MINIKA COCUK
+#EXTINF:0,Minika Çocuk
 http://145.239.1.103:8000/live/melik/123456/271.ts
-#EXTINF:0,[TR] MINIKA GO
+#EXTINF:0,MinikaGO
 http://145.239.1.103:8000/live/melik/123456/270.ts
-#EXTINF:0,[TR] TRT COCUK HD
+#EXTINF:0,TRT Çocuk
 http://145.239.1.103:8000/live/melik/123456/2329.ts
-#EXTINF:0,[TR] BOOMERANG SD [L]
+#EXTINF:0,Boomerang
 http://145.239.1.103:8000/live/melik/123456/12293.ts
-#EXTINF:0,[TR] PLANET ÇOCUK
+#EXTINF:0,Planet Çocuk
 http://ip.sltv.be:8000/live/maria123/maria123/1020.m3u8
-#EXTINF:0,[TR] KIDZ/ANIMEZ
+#EXTINF:0,KIDZ/ANIMEZ
 http://ip.sltv.be:8000/live/maria123/maria123/123307.m3u8
-#EXTINF:0,[TR] BABY TV HD
+#EXTINF:0,Baby TV
 http://145.239.1.103:8000/live/melik/123456/149.ts
-#EXTINF:0,[TR] NICKELODEON
+#EXTINF:0,Nickelodeon
 http://ip.sltv.be:8000/live/maria123/maria123/6053.m3u8
-#EXTINF:0,[TR] NICK JR
+#EXTINF:0,Nick Jr.
 http://145.239.1.103:8000/live/melik/123456/268.ts
-#EXTINF:0,[TR] NICKTOONS SD [L]
+#EXTINF:0,Nicktoons
 http://145.239.1.103:8000/live/melik/123456/2375.ts
-#EXTINF:0,[TR] DISNEY JUNIOR HD
+#EXTINF:0,Disney Junior
 http://145.239.1.103:8000/live/melik/123456/2500.ts
-#EXTINF:0,[TR] DISNEY CHANNEL
+#EXTINF:0,Disney Channel
 http://145.239.1.103:8000/live/melik/123456/5472.ts
-#EXTINF:0,[TR] DISNEY CHANNEL HD
-http://145.239.1.103:8000/live/melik/123456/272.ts
-#EXTINF:0,[TR] CARTOON NETWORK
+#EXTINF:0,Cartoon Network
 http://145.239.1.103:8000/live/melik/123456/2363.ts
 #EXTINF:0,[UK] VH1 CLASSIC
 http://ip.sltv.be:8000/live/maria123/maria123/1295.m3u8
@@ -51,43 +49,39 @@ http://145.239.1.103:8000/live/melik/123456/4376.ts
 http://145.239.1.103:8000/live/melik/123456/4378.ts
 #EXTINF:0,[UK] MTV ROCKS
 http://145.239.1.103:8000/live/melik/123456/4382.ts
-#EXTINF:0,[TR] Number1 TV HD
+#EXTINF:0,Number1 TV HD
 http://145.239.1.103:8000/live/melik/123456/2353.ts
-#EXTINF:0,[TR] Number1 DANCE
+#EXTINF:0,Number1 DANCE
 http://145.239.1.103:8000/live/melik/123456/8219.ts
-#EXTINF:0,[TR] DREAM TV
+#EXTINF:0,DREAM TV
 http://ip.sltv.be:8000/live/maria123/maria123/1880.m3u8
-#EXTINF:0,[TR] POWER TV HD
+#EXTINF:0,Power TV
 http://145.239.1.103:8000/live/melik/123456/2345.ts
-#EXTINF:0,[TR] NATIONAL GEOGRAPHIC HD [L]
+#EXTINF:0,National Geographic
 http://145.239.1.103:8000/live/melik/123456/12626.ts
-#EXTINF:0,[TR] NAT GEO PEOPLE HD [L]
+#EXTINF:0,Nat Geo People
 http://145.239.1.103:8000/live/melik/123456/247.ts
-#EXTINF:0,[TR] NAT GEO WILD HD [L]
+#EXTINF:0,Nat Geo Wild
 http://145.239.1.103:8000/live/melik/123456/246.ts
-#EXTINF:0,[TR] UCAK KAZASI RAPORU HD
-http://145.239.1.103:8000/live/melik/123456/11621.ts
-#EXTINF:0,[TR] DISCOVERY CHANEL HD [L]
+#EXTINF:0,Discovery
 http://145.239.1.103:8000/live/melik/123456/248.ts
-#EXTINF:0,[TR] DISCOVERY SHOWCASE HD [L]
+#EXTINF:0,Discovery Showcase
 http://145.239.1.103:8000/live/melik/123456/8768.ts
-#EXTINF:0,[TR] DISCOVERY SHOWCASE FHD
-http://145.239.1.103:8000/live/melik/123456/2349.ts
-#EXTINF:0,[TR] DISCOVERY SCIENCE HD [L]
+#EXTINF:0,Discovery Science
 http://145.239.1.103:8000/live/melik/123456/249.ts
-#EXTINF:0,[TR] DISCOVERY IDX HD
+#EXTINF:0,Discovery ID
 http://145.239.1.103:8000/live/melik/123456/7802.ts
-#EXTINF:0,[TR] DISCOVERY DTX HD [L]
+#EXTINF:0,Discovery DTX
 http://145.239.1.103:8000/live/melik/123456/278.ts
-#EXTINF:0,[TR] ANIMAL PLANET HD [L]
+#EXTINF:0,Animal Planet
 http://145.239.1.103:8000/live/melik/123456/274.ts
-#EXTINF:0,[TR] BBC EARTH HD [L]
+#EXTINF:0,BBC Earth
 http://145.239.1.103:8000/live/melik/123456/222.ts
-#EXTINF:0,[TR] HISTORY CHANNEL HD [L]
+#EXTINF:0,History
 http://145.239.1.103:8000/live/melik/123456/250.ts
-#EXTINF:0,[TR] BEIN IZ FHD
+#EXTINF:0,BeIN İZ
 http://145.239.1.103:8000/live/melik/123456/1848.ts
-#EXTINF:0,[TR] YABAN TV
+#EXTINF:0,Yaban TV
 http://145.239.1.103:8000/live/melik/123456/2379.ts
-#EXTINF:0,[TR] Da Vinci LEARNING HD [L]
+#EXTINF:0,Da Vinci Learning
 http://145.239.1.103:8000/live/melik/123456/12627.ts
