@@ -1,5 +1,5 @@
 
           <item> 
             <title>24 Kitchen</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=24 Kitchen</link> 
+            <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;http://linux-app.tv:8080/live/jabar1/jabar1/7821.m3u8</link> 
         </item> 
