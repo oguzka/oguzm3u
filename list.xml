@@ -1,6 +1,4 @@
-  <item> 
-            <title>testss</title> 
-	     <link>ignore</link>
-   <externallink>plugin://plugin.video.f4mTester/?url=https://raw.githubusercontent.com/oguzka/oguzm3u/master/test.m3u&type=m3u&output=mpegts$$TSDOWNLOADER$$</externallink>
-	     <page></page>
-        </item>
+<streamingInfos>
+<item>
+<title>thetestlink</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.1.103:8000/live/melik/123456/5477.ts</link>
