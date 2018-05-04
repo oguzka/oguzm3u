@@ -1,5 +1,5 @@
 
           <item> 
             <title>24 Kitchen</title> 
-            <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;http://145.239.1.103:8000/live/melik/123456/207.ts</link> 
+            <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.1.103:8000/live/melik/123456/207.ts</link> 
         </item> 
