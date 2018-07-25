@@ -1,715 +1,237 @@
 #EXTM3U
-#EXTINF:0,-------------- | SPOR | --------------
-http://vismanx1.com:8080/live/tom07/tom07/6508.ts
-#EXTINF:0,beIN SPORTS HD 1
-http://vismanx1.com:8080/live/tom07/tom07/2.ts
-#EXTINF:0,beIN SPORTS 1 HD 265.HVEC
-http://vismanx1.com:8080/live/tom07/tom07/130.ts
-#EXTINF:0,beIN SPORTS SD 1
-http://vismanx1.com:8080/live/tom07/tom07/7100.ts
-#EXTINF:0,beIN SPORTS HD 1 Mobile
-http://vismanx1.com:8080/live/tom07/tom07/7042.ts
-#EXTINF:0,beIN SPORTS HD 1 1080i
-http://vismanx1.com:8080/live/tom07/tom07/7101.ts
-#EXTINF:0,beIN SPORTS 1 4K UHD
-http://vismanx1.com:8080/live/tom07/tom07/7605.ts
-#EXTINF:0,beIN SPORTS HD 1 720p
-http://vismanx1.com:8080/live/tom07/tom07/7102.ts
-#EXTINF:0,beIN SPORTS SD 2
-http://vismanx1.com:8080/live/tom07/tom07/8302.ts
-#EXTINF:0,beIN SPORTS HD 2
-http://vismanx1.com:8080/live/tom07/tom07/3.ts
-#EXTINF:0,beIN SPORTS SD 3
-http://vismanx1.com:8080/live/tom07/tom07/8301.ts
-#EXTINF:0,beIN SPORTS HD 3
-http://vismanx1.com:8080/live/tom07/tom07/4.ts
-#EXTINF:0,beIN SPORTS HD 4
-http://vismanx1.com:8080/live/tom07/tom07/1492.ts
-#EXTINF:0,beIN SPORTS MAX 1 HD
-http://vismanx1.com:8080/live/tom07/tom07/6977.ts
-#EXTINF:0,beIN SPORTS MAX 2 HD
-http://vismanx1.com:8080/live/tom07/tom07/6978.ts
-#EXTINF:0,beIN SPORTS HABER HD
-http://vismanx1.com:8080/live/tom07/tom07/7105.ts
-#EXTINF:0,tivibu SPOR 1 HD
-http://vismanx1.com:8080/live/tom07/tom07/179.ts
-#EXTINF:0,tivibu SPOR 2 HD
-http://vismanx1.com:8080/live/tom07/tom07/180.ts
-#EXTINF:0,tivibu SPOR 3 HD
-http://vismanx1.com:8080/live/tom07/tom07/181.ts
-#EXTINF:0,tivibu SPOR 4 HD
-http://vismanx1.com:8080/live/tom07/tom07/182.ts
-#EXTINF:0,tivibu SPOR 5 HD
-http://vismanx1.com:8080/live/tom07/tom07/8580.ts
-#EXTINF:0,D-Smart SPOR  HD
-http://vismanx1.com:8080/live/tom07/tom07/10.ts
-#EXTINF:0,D-Smart NBA TV HD
-http://vismanx1.com:8080/live/tom07/tom07/12.ts
-#EXTINF:0,Filbox EUROSPORT 1 HD
-http://vismanx1.com:8080/live/tom07/tom07/67.ts
-#EXTINF:0,D-Smart EUROSPORT 2 HD
-http://vismanx1.com:8080/live/tom07/tom07/29.ts
-#EXTINF:0,S Sport  HD
-http://vismanx1.com:8080/live/tom07/tom07/11.ts
-#EXTINF:0,Sports TV
-http://vismanx1.com:8080/live/tom07/tom07/86.ts
-#EXTINF:0,TRT Spor HD
-http://vismanx1.com:8080/live/tom07/tom07/58.ts
-#EXTINF:0,TRT 3 - TRT Spor
-http://vismanx1.com:8080/live/tom07/tom07/1353.ts
-#EXTINF:0,A Spor HD
-http://vismanx1.com:8080/live/tom07/tom07/75.ts
-#EXTINF:0,BJK TV
-http://vismanx1.com:8080/live/tom07/tom07/158.ts
-#EXTINF:0,TAY  TV
-http://vismanx1.com:8080/live/tom07/tom07/208.ts
-#EXTINF:0,TJK
-http://vismanx1.com:8080/live/tom07/tom07/17210.ts
-#EXTINF:0,GS TV
-http://vismanx1.com:8080/live/tom07/tom07/117.ts
-#EXTINF:0,FB TV HD
-http://vismanx1.com:8080/live/tom07/tom07/1709.ts
 #EXTINF:0,BURSASPOR TV
-http://vismanx1.com:8080/live/tom07/tom07/8551.ts
-#EXTINF:0,-------------- | SINEMA | --------------
-http://vismanx1.com:8080/live/tom07/tom07/6510.ts
-#EXTINF:0,beIN MOVIES PREMIERE HD
-http://vismanx1.com:8080/live/tom07/tom07/2058.ts
-#EXTINF:0,beIN MOVIES PREMIERE 2 HD
-http://vismanx1.com:8080/live/tom07/tom07/2057.ts
-#EXTINF:0,beIN MOVIES ACTION HD
-http://vismanx1.com:8080/live/tom07/tom07/2056.ts
-#EXTINF:0,beIN MOVIES ACTION 2 HD
-http://vismanx1.com:8080/live/tom07/tom07/6089.ts
-#EXTINF:0,beIN MOVIES FAMILY HD
-http://vismanx1.com:8080/live/tom07/tom07/6090.ts
-#EXTINF:0,beIN MOVIES FESTIVAL HD
-http://vismanx1.com:8080/live/tom07/tom07/6091.ts
-#EXTINF:0,beIN MOVIES COMEDY HD
-http://vismanx1.com:8080/live/tom07/tom07/6092.ts
-#EXTINF:0,beIN MOVIES TURK HD
-http://vismanx1.com:8080/live/tom07/tom07/6094.ts
-#EXTINF:0,beIN MOVIES STARS HD
-http://vismanx1.com:8080/live/tom07/tom07/6093.ts
-#EXTINF:0,Moviemax PREMIER  HD
-http://vismanx1.com:8080/live/tom07/tom07/6.ts
-#EXTINF:0,Moviemax Premier 2 HD
-http://vismanx1.com:8080/live/tom07/tom07/19111.ts
-#EXTINF:0,Moviemax Oscar HD
-http://vismanx1.com:8080/live/tom07/tom07/17568.ts
-#EXTINF:0,Moviemax Turk HD
-http://vismanx1.com:8080/live/tom07/tom07/17569.ts
-#EXTINF:0,beIN SERIES DRAMA  HD
-http://vismanx1.com:8080/live/tom07/tom07/7556.ts
-#EXTINF:0,beIN SERIES SCI-FI HD
-http://vismanx1.com:8080/live/tom07/tom07/39.ts
-#EXTINF:0,beIN SERIES COMEDY HD
-http://vismanx1.com:8080/live/tom07/tom07/2071.ts
-#EXTINF:0,beIN SERIES  VICE HD
-http://vismanx1.com:8080/live/tom07/tom07/7557.ts
-#EXTINF:0,D-Smart MOVIESMART CLASSIC
-http://vismanx1.com:8080/live/tom07/tom07/63.ts
-#EXTINF:0,D-Smart DIZI PREMIUM HD
-http://vismanx1.com:8080/live/tom07/tom07/73.ts
-#EXTINF:0,D-Smart MOVIESMART HD ACTION
-http://vismanx1.com:8080/live/tom07/tom07/2395.ts
-#EXTINF:0,D-Smart MOVIESMART TURK HD
-http://vismanx1.com:8080/live/tom07/tom07/72.ts
-#EXTINF:0,D-Smart MOVIESMART PREMIUM 2 HD
-http://vismanx1.com:8080/live/tom07/tom07/68.ts
-#EXTINF:0,D-Smart MOVIESMART PREMIUM HD
-http://vismanx1.com:8080/live/tom07/tom07/1288.ts
-#EXTINF:0,D-Smart MOVIESMART  GOLD
-http://vismanx1.com:8080/live/tom07/tom07/1706.ts
-#EXTINF:0,D-Smart MOVIESMART FAMILY HD
-http://vismanx1.com:8080/live/tom07/tom07/1705.ts
-#EXTINF:0,D-Smart MOVIESMART PLATIN 2 HD
-http://vismanx1.com:8080/live/tom07/tom07/157.ts
-#EXTINF:0,D-Smart MOVIESMART GOLD
-http://vismanx1.com:8080/live/tom07/tom07/65.ts
-#EXTINF:0,D-Smart MOVIESMART FEST
-http://vismanx1.com:8080/live/tom07/tom07/2399.ts
-#EXTINF:0,D-Smart FX
-http://vismanx1.com:8080/live/tom07/tom07/2075.ts
-#EXTINF:0,D-Smart Dizi Smart MAX HD
-http://vismanx1.com:8080/live/tom07/tom07/1707.ts
-#EXTINF:0,Tivibu ADRENALIN HD
-http://vismanx1.com:8080/live/tom07/tom07/2398.ts
-#EXTINF:0,Tivibu Vizyon HD
-http://vismanx1.com:8080/live/tom07/tom07/1708.ts
-#EXTINF:0,Tivibu Turk HD
-http://vismanx1.com:8080/live/tom07/tom07/8581.ts
-#EXTINF:0,Tivibu Turk 2 HD
-http://vismanx1.com:8080/live/tom07/tom07/19113.ts
-#EXTINF:0,Filbox SINEMA 2 HD
-http://vismanx1.com:8080/live/tom07/tom07/66.ts
-#EXTINF:0,Filbox SinemaTV Aksiyon HD
-http://vismanx1.com:8080/live/tom07/tom07/22.ts
-#EXTINF:0,Filbox SINEMA AKSIYON 2
-http://vismanx1.com:8080/live/tom07/tom07/10113.ts
-#EXTINF:0,Filbox SINEMA TV
-http://vismanx1.com:8080/live/tom07/tom07/176.ts
-#EXTINF:0,Filbox SINEMA TV AILE
-http://vismanx1.com:8080/live/tom07/tom07/2401.ts
-#EXTINF:0,Filbox SINEMA AILE 2
-http://vismanx1.com:8080/live/tom07/tom07/10116.ts
-#EXTINF:0,Filbox SINEMA 1001
-http://vismanx1.com:8080/live/tom07/tom07/10115.ts
-#EXTINF:0,Filbox Sinema Komedi HD
-http://vismanx1.com:8080/live/tom07/tom07/8552.ts
-#EXTINF:0,Filbox SINEMA KOMEDI 2
-http://vismanx1.com:8080/live/tom07/tom07/10114.ts
-#EXTINF:0,beIN BOX OFFICE 1 HD
-http://vismanx1.com:8080/live/tom07/tom07/7.ts
-#EXTINF:0,beIN BOX OFFICE 2 HD
-http://vismanx1.com:8080/live/tom07/tom07/8.ts
-#EXTINF:0,beIN BOX OFFICE 3 HD
-http://vismanx1.com:8080/live/tom07/tom07/9.ts
-#EXTINF:0,beIN BOX OFFICE 3D HD
-http://vismanx1.com:8080/live/tom07/tom07/2063.ts
-#EXTINF:0,Cine + HD
-http://vismanx1.com:8080/live/tom07/tom07/5.ts
-#EXTINF:0,Cine + HD 2
-http://vismanx1.com:8080/live/tom07/tom07/19.ts
-#EXTINF:0,Cine + HD 1
-http://vismanx1.com:8080/live/tom07/tom07/8131.ts
-#EXTINF:0,Cine + HD  2
-http://vismanx1.com:8080/live/tom07/tom07/8132.ts
-#EXTINF:0,Cine + HD 3
-http://vismanx1.com:8080/live/tom07/tom07/8133.ts
-#EXTINF:0,Cine + HD 4
-http://vismanx1.com:8080/live/tom07/tom07/8134.ts
-#EXTINF:0,Cine + HD 5
-http://vismanx1.com:8080/live/tom07/tom07/8135.ts
-#EXTINF:0,Cine + HD 6
-http://vismanx1.com:8080/live/tom07/tom07/8136.ts
-#EXTINF:0,Cine + HD 7
-http://vismanx1.com:8080/live/tom07/tom07/8137.ts
-#EXTINF:0,Cine + HD 8
-http://vismanx1.com:8080/live/tom07/tom07/8138.ts
-#EXTINF:0,Cine + HD 9
-http://vismanx1.com:8080/live/tom07/tom07/8139.ts
-#EXTINF:0,Cine + HD 10
-http://vismanx1.com:8080/live/tom07/tom07/8140.ts
-#EXTINF:0,Cine + HD 11
-http://vismanx1.com:8080/live/tom07/tom07/8158.ts
-#EXTINF:0,Cine + HD 12
-http://vismanx1.com:8080/live/tom07/tom07/8159.ts
-#EXTINF:0,Cine + HD 13
-http://vismanx1.com:8080/live/tom07/tom07/8160.ts
-#EXTINF:0,Cine + HD 14
-http://vismanx1.com:8080/live/tom07/tom07/8161.ts
-#EXTINF:0,Cine + HD 15
-http://vismanx1.com:8080/live/tom07/tom07/8162.ts
-#EXTINF:0,Cine + HD 16
-http://vismanx1.com:8080/live/tom07/tom07/8163.ts
-#EXTINF:0,Cine + HD 17
-http://vismanx1.com:8080/live/tom07/tom07/8164.ts
-#EXTINF:0,Cine + HD 18
-http://vismanx1.com:8080/live/tom07/tom07/8165.ts
-#EXTINF:0,Cine + HD 19
-http://vismanx1.com:8080/live/tom07/tom07/8166.ts
-#EXTINF:0,Cine + HD 20
-http://vismanx1.com:8080/live/tom07/tom07/8167.ts
-#EXTINF:0,LOCA 1  HD
-http://vismanx1.com:8080/live/tom07/tom07/16.ts
-#EXTINF:0,LOCA 2 HD
-http://vismanx1.com:8080/live/tom07/tom07/148.ts
-#EXTINF:0,LOCA 3 HD
-http://vismanx1.com:8080/live/tom07/tom07/218.ts
-#EXTINF:0,Cine + HD Turk
-http://vismanx1.com:8080/live/tom07/tom07/13.ts
-#EXTINF:0,Cine + HD Turk 1
-http://vismanx1.com:8080/live/tom07/tom07/8177.ts
-#EXTINF:0,Cine + HD Turk 2
-http://vismanx1.com:8080/live/tom07/tom07/8176.ts
-#EXTINF:0,Cine + HD Turk 3
-http://vismanx1.com:8080/live/tom07/tom07/8175.ts
-#EXTINF:0,Cine + HD Turk 4
-http://vismanx1.com:8080/live/tom07/tom07/8174.ts
-#EXTINF:0,YESILCAM 1 HD
-http://vismanx1.com:8080/live/tom07/tom07/14.ts
-#EXTINF:0,YESILCAM 2 HD
-http://vismanx1.com:8080/live/tom07/tom07/15.ts
-#EXTINF:0,KEMAL SUNAL TV
-http://vismanx1.com:8080/live/tom07/tom07/8203.ts
-#EXTINF:0,KADIR INANIR TV
-http://vismanx1.com:8080/live/tom07/tom07/8204.ts
-#EXTINF:0,Fox Crime HD
-http://vismanx1.com:8080/live/tom07/tom07/10107.ts
-#EXTINF:0,Fox Life HD
-http://vismanx1.com:8080/live/tom07/tom07/10108.ts
-#EXTINF:0,FILM TV HD
-http://vismanx1.com:8080/live/tom07/tom07/17.ts
-#EXTINF:0,-------------- | ULUSAL | --------------
-http://vismanx1.com:8080/live/tom07/tom07/6509.ts
-#EXTINF:0,Trt 1 UHD DUNYA KUPASI
-http://vismanx1.com:8080/live/tom07/tom07/17532.ts
+http://163.172.107.124:80/live/test22/test22/676.ts
+#EXTINF:0,TRT SPOR UHD
+http://163.172.107.124:80/live/test22/test22/5993.ts
+#EXTINF:0,TRT SPOR
+http://163.172.107.124:80/live/test22/test22/2348.ts
+#EXTINF:0,ASPOR HD
+http://163.172.107.124:80/live/test22/test22/6048.ts
+#EXTINF:0,A SPOR HD
+http://163.172.107.124:80/live/test22/test22/673.ts
+#EXTINF:0,SPORTS TV uhd
+http://163.172.107.124:80/live/test22/test22/6001.ts
+#EXTINF:0,******TR:ULUSAL******
+http://163.172.107.124:80/live/test22/test22/10132.ts
+#EXTINF:0,TRT 4K
+http://163.172.107.124:80/live/test22/test22/20063.ts
+#EXTINF:0,TRT1 UHD
+http://163.172.107.124:80/live/test22/test22/6056.ts
 #EXTINF:0,TRT1 HD
-http://vismanx1.com:8080/live/tom07/tom07/82.ts
-#EXTINF:0,TRT1 SD
-http://vismanx1.com:8080/live/tom07/tom07/31.ts
-#EXTINF:0,Trt 1 SD Yedek
-http://vismanx1.com:8080/live/tom07/tom07/19098.ts
-#EXTINF:0,TRT 4K TV
-http://vismanx1.com:8080/live/tom07/tom07/7548.ts
-#EXTINF:0,TRT OKUL
-http://vismanx1.com:8080/live/tom07/tom07/2414.ts
-#EXTINF:0,TRT Kurdi
-http://vismanx1.com:8080/live/tom07/tom07/2046.ts
-#EXTINF:0,TRT AVAZ
-http://vismanx1.com:8080/live/tom07/tom07/17211.ts
-#EXTINF:0,TRT DIYANET
-http://vismanx1.com:8080/live/tom07/tom07/17212.ts
-#EXTINF:0,TRT EL ARABIA
-http://vismanx1.com:8080/live/tom07/tom07/17213.ts
-#EXTINF:0,TRT TURK
-http://vismanx1.com:8080/live/tom07/tom07/17214.ts
-#EXTINF:0,TRT WORLD
-http://vismanx1.com:8080/live/tom07/tom07/17215.ts
-#EXTINF:0,ATV
-http://vismanx1.com:8080/live/tom07/tom07/95.ts
+http://163.172.107.124:80/live/test22/test22/2931.ts
+#EXTINF:0,ATV UHD
+http://163.172.107.124:80/live/test22/test22/6057.ts
 #EXTINF:0,ATV HD
-http://vismanx1.com:8080/live/tom07/tom07/1.ts
-#EXTINF:0,Atv SD Yedek
-http://vismanx1.com:8080/live/tom07/tom07/19100.ts
-#EXTINF:0,Atv Euro
-http://vismanx1.com:8080/live/tom07/tom07/7566.ts
-#EXTINF:0,A2
-http://vismanx1.com:8080/live/tom07/tom07/2070.ts
-#EXTINF:0,Show TV
-http://vismanx1.com:8080/live/tom07/tom07/97.ts
-#EXTINF:0,Show TV HD
-http://vismanx1.com:8080/live/tom07/tom07/25.ts
-#EXTINF:0,Show Tv SD Yedek
-http://vismanx1.com:8080/live/tom07/tom07/19101.ts
-#EXTINF:0,Show Tv Euro
-http://vismanx1.com:8080/live/tom07/tom07/7564.ts
-#EXTINF:0,Star TV
-http://vismanx1.com:8080/live/tom07/tom07/98.ts
-#EXTINF:0,Star TV HD
-http://vismanx1.com:8080/live/tom07/tom07/28.ts
-#EXTINF:0,Star Tv SD Yedek
-http://vismanx1.com:8080/live/tom07/tom07/19099.ts
-#EXTINF:0,Star Tv Euro
-http://vismanx1.com:8080/live/tom07/tom07/7563.ts
-#EXTINF:0,Kanal D
-http://vismanx1.com:8080/live/tom07/tom07/96.ts
-#EXTINF:0,Kanal D HD
-http://vismanx1.com:8080/live/tom07/tom07/26.ts
-#EXTINF:0,Kanal D SD Yedek
-http://vismanx1.com:8080/live/tom07/tom07/19102.ts
-#EXTINF:0,Kanal D Euro
-http://vismanx1.com:8080/live/tom07/tom07/7565.ts
+http://163.172.107.124:80/live/test22/test22/2927.ts
+#EXTINF:0,FOX TV UHD
+http://163.172.107.124:80/live/test22/test22/6051.ts
 #EXTINF:0,FOX TV
-http://vismanx1.com:8080/live/tom07/tom07/200.ts
-#EXTINF:0,FOX HD
-http://vismanx1.com:8080/live/tom07/tom07/27.ts
-#EXTINF:0,Fox SD Yedek
-http://vismanx1.com:8080/live/tom07/tom07/19103.ts
-#EXTINF:0,TV8
-http://vismanx1.com:8080/live/tom07/tom07/93.ts
+http://163.172.107.124:80/live/test22/test22/2929.ts
+#EXTINF:0,SHOW TV UHD
+http://163.172.107.124:80/live/test22/test22/6060.ts
+#EXTINF:0,SHOW TV
+http://163.172.107.124:80/live/test22/test22/2921.ts
+#EXTINF:0,KANAL D UHD
+http://163.172.107.124:80/live/test22/test22/6059.ts
+#EXTINF:0,KANAL D
+http://163.172.107.124:80/live/test22/test22/2919.ts
+#EXTINF:0,STAR TV UHD
+http://163.172.107.124:80/live/test22/test22/6058.ts
+#EXTINF:0,STAR TV HD
+http://163.172.107.124:80/live/test22/test22/14973.ts
+#EXTINF:0,TV8 UHD
+http://163.172.107.124:80/live/test22/test22/6055.ts
 #EXTINF:0,TV8 HD
-http://vismanx1.com:8080/live/tom07/tom07/57.ts
-#EXTINF:0,TV 8 SD Yedek
-http://vismanx1.com:8080/live/tom07/tom07/19104.ts
-#EXTINF:0,TV8.5
-http://vismanx1.com:8080/live/tom07/tom07/2068.ts
-#EXTINF:0,TV 8.5 SD Yedek
-http://vismanx1.com:8080/live/tom07/tom07/19105.ts
-#EXTINF:0,Beyaz TV HD
-http://vismanx1.com:8080/live/tom07/tom07/35.ts
-#EXTINF:0,KANAL 7
-http://vismanx1.com:8080/live/tom07/tom07/2357.ts
-#EXTINF:0,Sony Mutfak
-http://vismanx1.com:8080/live/tom07/tom07/204.ts
-#EXTINF:0,Planet Turk
-http://vismanx1.com:8080/live/tom07/tom07/1590.ts
-#EXTINF:0,TLC TV
-http://vismanx1.com:8080/live/tom07/tom07/87.ts
-#EXTINF:0,Teve2
-http://vismanx1.com:8080/live/tom07/tom07/83.ts
-#EXTINF:0,Flash TV
-http://vismanx1.com:8080/live/tom07/tom07/52.ts
-#EXTINF:0,FILTV
-http://vismanx1.com:8080/live/tom07/tom07/17197.ts
-#EXTINF:0,KADIRGA TV
-http://vismanx1.com:8080/live/tom07/tom07/17198.ts
-#EXTINF:0,KANAL T
-http://vismanx1.com:8080/live/tom07/tom07/17199.ts
-#EXTINF:0,BRT2
-http://vismanx1.com:8080/live/tom07/tom07/17193.ts
-#EXTINF:0,KIBRIS ADA TV
-http://vismanx1.com:8080/live/tom07/tom07/17200.ts
-#EXTINF:0,KIDZ ANIMEZ
-http://vismanx1.com:8080/live/tom07/tom07/17201.ts
-#EXTINF:0,LIFEPLUS
-http://vismanx1.com:8080/live/tom07/tom07/17202.ts
-#EXTINF:0,LIFETIME
-http://vismanx1.com:8080/live/tom07/tom07/17203.ts
-#EXTINF:0,NR1 ASK
-http://vismanx1.com:8080/live/tom07/tom07/17205.ts
-#EXTINF:0,TV5MONDE
-http://vismanx1.com:8080/live/tom07/tom07/17216.ts
-#EXTINF:0,TVT
-http://vismanx1.com:8080/live/tom07/tom07/17218.ts
-#EXTINF:0,ULUSAL16
-http://vismanx1.com:8080/live/tom07/tom07/17219.ts
-#EXTINF:0,A9 HD
-http://vismanx1.com:8080/live/tom07/tom07/7560.ts
-#EXTINF:0,Fashionone TV
-http://vismanx1.com:8080/live/tom07/tom07/7545.ts
-#EXTINF:0,FASHIONBOX
-http://vismanx1.com:8080/live/tom07/tom07/17196.ts
-#EXTINF:0,CAY TV
-http://vismanx1.com:8080/live/tom07/tom07/1489.ts
-#EXTINF:0,CEM TV
-http://vismanx1.com:8080/live/tom07/tom07/2361.ts
-#EXTINF:0,KANAL 32
-http://vismanx1.com:8080/live/tom07/tom07/207.ts
-#EXTINF:0,TAY TV
-http://vismanx1.com:8080/live/tom07/tom07/137.ts
-#EXTINF:0,As Tv
-http://vismanx1.com:8080/live/tom07/tom07/7090.ts
-#EXTINF:0,Bursa Tv
-http://vismanx1.com:8080/live/tom07/tom07/7091.ts
-#EXTINF:0,Kent Tv
-http://vismanx1.com:8080/live/tom07/tom07/7092.ts
-#EXTINF:0,Mercan Tv
-http://vismanx1.com:8080/live/tom07/tom07/7087.ts
-#EXTINF:0,Ordu Altas Tv
-http://vismanx1.com:8080/live/tom07/tom07/7086.ts
-#EXTINF:0,Pamukkale Tv
-http://vismanx1.com:8080/live/tom07/tom07/7093.ts
-#EXTINF:0,Tv 52
-http://vismanx1.com:8080/live/tom07/tom07/7096.ts
-#EXTINF:0,Tv 79
-http://vismanx1.com:8080/live/tom07/tom07/7095.ts
-#EXTINF:0,Tv A
-http://vismanx1.com:8080/live/tom07/tom07/7097.ts
-#EXTINF:0,TV 5
-http://vismanx1.com:8080/live/tom07/tom07/10112.ts
-#EXTINF:0,Tiviti TV
-http://vismanx1.com:8080/live/tom07/tom07/7088.ts
-#EXTINF:0,Gala TV
-http://vismanx1.com:8080/live/tom07/tom07/7089.ts
-#EXTINF:0,KARADENIZTURK TV
-http://vismanx1.com:8080/live/tom07/tom07/7106.ts
-#EXTINF:0,MAVI KARADENIZ
-http://vismanx1.com:8080/live/tom07/tom07/10111.ts
-#EXTINF:0,ANADOLU DERNEK TV
-http://vismanx1.com:8080/live/tom07/tom07/10109.ts
-#EXTINF:0,AKIT TV
-http://vismanx1.com:8080/live/tom07/tom07/8202.ts
-#EXTINF:0,RUMELI TV
-http://vismanx1.com:8080/live/tom07/tom07/7108.ts
-#EXTINF:0,KON TV
-http://vismanx1.com:8080/live/tom07/tom07/7562.ts
-#EXTINF:0,RT ARABIC
-http://vismanx1.com:8080/live/tom07/tom07/17207.ts
-#EXTINF:0,RT ESPANOL
-http://vismanx1.com:8080/live/tom07/tom07/17208.ts
-#EXTINF:0,SKY NEWS ARABIA
-http://vismanx1.com:8080/live/tom07/tom07/17209.ts
-#EXTINF:0,KANAL 68
-http://vismanx1.com:8080/live/tom07/tom07/17531.ts
-#EXTINF:0,-------------- | MUZIK | --------------
-http://vismanx1.com:8080/live/tom07/tom07/6514.ts
-#EXTINF:0,TRT Müzik
-http://vismanx1.com:8080/live/tom07/tom07/50.ts
-#EXTINF:0,POWER TURK HD
-http://vismanx1.com:8080/live/tom07/tom07/49.ts
-#EXTINF:0,KRAL  TV
-http://vismanx1.com:8080/live/tom07/tom07/48.ts
-#EXTINF:0,KRAL POP
-http://vismanx1.com:8080/live/tom07/tom07/2049.ts
-#EXTINF:0,KRAL POP TV
-http://vismanx1.com:8080/live/tom07/tom07/7549.ts
-#EXTINF:0,Number1 Tv
-http://vismanx1.com:8080/live/tom07/tom07/7550.ts
-#EXTINF:0,NUMBER ONE
-http://vismanx1.com:8080/live/tom07/tom07/1488.ts
-#EXTINF:0,NUMBERONE TURK
-http://vismanx1.com:8080/live/tom07/tom07/206.ts
-#EXTINF:0,Power Tv HD
-http://vismanx1.com:8080/live/tom07/tom07/7094.ts
-#EXTINF:0,VIVA TV
-http://vismanx1.com:8080/live/tom07/tom07/38.ts
-#EXTINF:0,DREAM TV
-http://vismanx1.com:8080/live/tom07/tom07/17194.ts
-#EXTINF:0,DREAMTURK
-http://vismanx1.com:8080/live/tom07/tom07/17195.ts
-#EXTINF:0,N1 DAMAR
-http://vismanx1.com:8080/live/tom07/tom07/17204.ts
-#EXTINF:0,NR1 DANCE
-http://vismanx1.com:8080/live/tom07/tom07/17206.ts
-#EXTINF:0,-------------- | HABER | --------------
-http://vismanx1.com:8080/live/tom07/tom07/6511.ts
-#EXTINF:0,TRT Haber HD
-http://vismanx1.com:8080/live/tom07/tom07/40.ts
-#EXTINF:0,A Haber HD
-http://vismanx1.com:8080/live/tom07/tom07/43.ts
-#EXTINF:0,HABER TURK
-http://vismanx1.com:8080/live/tom07/tom07/34.ts
-#EXTINF:0,CNN TURK
-http://vismanx1.com:8080/live/tom07/tom07/32.ts
+http://163.172.107.124:80/live/test22/test22/2925.ts
+#EXTINF:0,TV 8.5 UHD
+http://163.172.107.124:80/live/test22/test22/2933.ts
+#EXTINF:0,NTV UHD
+http://163.172.107.124:80/live/test22/test22/6009.ts
 #EXTINF:0,NTV
-http://vismanx1.com:8080/live/tom07/tom07/33.ts
-#EXTINF:0,360
-http://vismanx1.com:8080/live/tom07/tom07/8205.ts
-#EXTINF:0,Bloomberg HT
-http://vismanx1.com:8080/live/tom07/tom07/1493.ts
-#EXTINF:0,BENGUTURK
-http://vismanx1.com:8080/live/tom07/tom07/2360.ts
-#EXTINF:0,HABER 24 TV
-http://vismanx1.com:8080/live/tom07/tom07/7546.ts
-#EXTINF:0,TVNET
-http://vismanx1.com:8080/live/tom07/tom07/17217.ts
-#EXTINF:0,TGRT HABER TV
-http://vismanx1.com:8080/live/tom07/tom07/7552.ts
+http://163.172.107.124:80/live/test22/test22/2937.ts
+#EXTINF:0,CNN TURK-UHD
+http://163.172.107.124:80/live/test22/test22/6040.ts
+#EXTINF:0,CNN TURK
+http://163.172.107.124:80/live/test22/test22/2939.ts
+#EXTINF:0,TRT HABER UHD
+http://163.172.107.124:80/live/test22/test22/5995.ts
+#EXTINF:0,TRT HABER
+http://163.172.107.124:80/live/test22/test22/2936.ts
+#EXTINF:0,HABER TURK-UHD
+http://163.172.107.124:80/live/test22/test22/6025.ts
+#EXTINF:0,HABER TURK
+http://163.172.107.124:80/live/test22/test22/2941.ts
+#EXTINF:0,A HABER UHD
+http://163.172.107.124:80/live/test22/test22/6049.ts
+#EXTINF:0,A HABER
+http://163.172.107.124:80/live/test22/test22/2938.ts
+#EXTINF:0,TVNET UHD
+http://163.172.107.124:80/live/test22/test22/18038.ts
+#EXTINF:0,TGRT HABER-UHD
+http://163.172.107.124:80/live/test22/test22/5999.ts
+#EXTINF:0,TGRT HABER
+http://163.172.107.124:80/live/test22/test22/2940.ts
+#EXTINF:0,HALK TV uhd
+http://163.172.107.124:80/live/test22/test22/6024.ts
+#EXTINF:0,ULKE TV-UHD
+http://163.172.107.124:80/live/test22/test22/6052.ts
 #EXTINF:0,ULUSAL TV
-http://vismanx1.com:8080/live/tom07/tom07/7547.ts
-#EXTINF:0,ULKE TV
-http://vismanx1.com:8080/live/tom07/tom07/45.ts
-#EXTINF:0,Halk TV
-http://vismanx1.com:8080/live/tom07/tom07/41.ts
-#EXTINF:0,UZAY HABER
-http://vismanx1.com:8080/live/tom07/tom07/6517.ts
-#EXTINF:0,Tele 1 HD
-http://vismanx1.com:8080/live/tom07/tom07/19114.ts
-#EXTINF:0,-------------- | CIZGI FILM | --------------
-http://vismanx1.com:8080/live/tom07/tom07/6513.ts
-#EXTINF:0,TRT   COCUK
-http://vismanx1.com:8080/live/tom07/tom07/2110.ts
-#EXTINF:0,Baby TV HD
-http://vismanx1.com:8080/live/tom07/tom07/19115.ts
-#EXTINF:0,Minika GO
-http://vismanx1.com:8080/live/tom07/tom07/44.ts
-#EXTINF:0,Minika COCUK
-http://vismanx1.com:8080/live/tom07/tom07/211.ts
-#EXTINF:0,Planet cocuk HD
-http://vismanx1.com:8080/live/tom07/tom07/85.ts
-#EXTINF:0,CARTOON NETWORK HD
-http://vismanx1.com:8080/live/tom07/tom07/7559.ts
-#EXTINF:0,D-Smart BOOMERANG COCUK
-http://vismanx1.com:8080/live/tom07/tom07/2064.ts
-#EXTINF:0,D-Smart SMART COCUK
-http://vismanx1.com:8080/live/tom07/tom07/2067.ts
-#EXTINF:0,Disney Channel
-http://vismanx1.com:8080/live/tom07/tom07/2102.ts
-#EXTINF:0,Planet Çocuk
-http://vismanx1.com:8080/live/tom07/tom07/2047.ts
-#EXTINF:0,Cine + HD Animasyon
-http://vismanx1.com:8080/live/tom07/tom07/20.ts
-#EXTINF:0,Cine + HD Animasyon 1
-http://vismanx1.com:8080/live/tom07/tom07/8173.ts
-#EXTINF:0,Cine + HD Animasyon 2
-http://vismanx1.com:8080/live/tom07/tom07/8172.ts
-#EXTINF:0,Cine + HD Animasyon 3
-http://vismanx1.com:8080/live/tom07/tom07/8171.ts
-#EXTINF:0,Cine + HD Animasyon 4
-http://vismanx1.com:8080/live/tom07/tom07/8170.ts
-#EXTINF:0,Cine + HD Animasyon 5
-http://vismanx1.com:8080/live/tom07/tom07/8169.ts
-#EXTINF:0,Cine + HD Animasyon 6
-http://vismanx1.com:8080/live/tom07/tom07/8168.ts
-#EXTINF:0,-------------- | BELGESEL | --------------
-http://vismanx1.com:8080/live/tom07/tom07/6512.ts
-#EXTINF:0,D-Smart DISCOVERY CHANNEL HD
-http://vismanx1.com:8080/live/tom07/tom07/184.ts
-#EXTINF:0,D-Smart Animal Planet
-http://vismanx1.com:8080/live/tom07/tom07/292.ts
-#EXTINF:0,D-Smart BBC EARTH HD
-http://vismanx1.com:8080/live/tom07/tom07/1287.ts
-#EXTINF:0,D-Smart DISCOVERY-SHOWCASE-HD
-http://vismanx1.com:8080/live/tom07/tom07/2364.ts
-#EXTINF:0,D-Smart NATIONAL GEOGRAPHIC WILD HD
-http://vismanx1.com:8080/live/tom07/tom07/169.ts
-#EXTINF:0,D-smart History HD
-http://vismanx1.com:8080/live/tom07/tom07/8578.ts
-#EXTINF:0,Tivibu History Channel HD
-http://vismanx1.com:8080/live/tom07/tom07/8579.ts
-#EXTINF:0,Tivibu DTX
-http://vismanx1.com:8080/live/tom07/tom07/6096.ts
-#EXTINF:0,beIN ID Xtra Europe HD
-http://vismanx1.com:8080/live/tom07/tom07/17566.ts
-#EXTINF:0,Filbox DAVINCI-LEARNING
-http://vismanx1.com:8080/live/tom07/tom07/2356.ts
-#EXTINF:0,Filbox VIASAT NATURE/HISTORY CH HD
-http://vismanx1.com:8080/live/tom07/tom07/178.ts
-#EXTINF:0,beIN IZ HD
-http://vismanx1.com:8080/live/tom07/tom07/212.ts
-#EXTINF:0,beIN NAT GEO PEOPLE HD
-http://vismanx1.com:8080/live/tom07/tom07/17220.ts
-#EXTINF:0,beIN GURME HD
-http://vismanx1.com:8080/live/tom07/tom07/2355.ts
-#EXTINF:0,National Geographic HD
-http://vismanx1.com:8080/live/tom07/tom07/2073.ts
-#EXTINF:0,National Geographic Wild HD
-http://vismanx1.com:8080/live/tom07/tom07/1286.ts
-#EXTINF:0,Nat Geo Wild HD
-http://vismanx1.com:8080/live/tom07/tom07/2104.ts
-#EXTINF:0,TRT Belgesel
-http://vismanx1.com:8080/live/tom07/tom07/210.ts
-#EXTINF:0,TRT Belgesel HD
-http://vismanx1.com:8080/live/tom07/tom07/147.ts
-#EXTINF:0,MAKINE TV
-http://vismanx1.com:8080/live/tom07/tom07/7107.ts
-#EXTINF:0,CIFTCI TV
-http://vismanx1.com:8080/live/tom07/tom07/10110.ts
-#EXTINF:0,YABAN  TV
-http://vismanx1.com:8080/live/tom07/tom07/90.ts
-#EXTINF:0,DMAX
-http://vismanx1.com:8080/live/tom07/tom07/59.ts
-#EXTINF:0,UK | ITV1
-http://vismanx1.com:8080/live/tom07/tom07/11209.ts
-#EXTINF:0,UK | ITV2
-http://vismanx1.com:8080/live/tom07/tom07/11210.ts
-#EXTINF:0,UK | ITV3
-http://vismanx1.com:8080/live/tom07/tom07/11211.ts
-#EXTINF:0,UK | ITV4
-http://vismanx1.com:8080/live/tom07/tom07/11212.ts
-#EXTINF:0,UK | BBC1
-http://vismanx1.com:8080/live/tom07/tom07/11213.ts
-#EXTINF:0,UK | BBC2
-http://vismanx1.com:8080/live/tom07/tom07/11214.ts
-#EXTINF:0,UK | BBC3
-http://vismanx1.com:8080/live/tom07/tom07/11215.ts
-#EXTINF:0,UK | BTSport1
-http://vismanx1.com:8080/live/tom07/tom07/11257.ts
-#EXTINF:0,UK | BTSport2
-http://vismanx1.com:8080/live/tom07/tom07/11258.ts
-#EXTINF:0,UK | BTSportESPN
-http://vismanx1.com:8080/live/tom07/tom07/11259.ts
-#EXTINF:0,UK | BTSportEurope
-http://vismanx1.com:8080/live/tom07/tom07/11256.ts
-#EXTINF:0,UK | RTE One
-http://vismanx1.com:8080/live/tom07/tom07/11243.ts
-#EXTINF:0,UK | Rte Two
-http://vismanx1.com:8080/live/tom07/tom07/11242.ts
-#EXTINF:0,UK | CBSAction
-http://vismanx1.com:8080/live/tom07/tom07/11218.ts
-#EXTINF:0,UK | CBSDrama
-http://vismanx1.com:8080/live/tom07/tom07/11217.ts
-#EXTINF:0,UK | CBSReality
-http://vismanx1.com:8080/live/tom07/tom07/11216.ts
-#EXTINF:0,UK | Channel4
-http://vismanx1.com:8080/live/tom07/tom07/11219.ts
-#EXTINF:0,UK | Channel5
-http://vismanx1.com:8080/live/tom07/tom07/11220.ts
-#EXTINF:0,UK | Movies 4Men
-http://vismanx1.com:8080/live/tom07/tom07/11235.ts
-#EXTINF:0,UK | Sky Movies Action
-http://vismanx1.com:8080/live/tom07/tom07/11238.ts
-#EXTINF:0,UK | Sky Movies Comedy
-http://vismanx1.com:8080/live/tom07/tom07/11237.ts
-#EXTINF:0,UK | Sky Movies Family HD
-http://vismanx1.com:8080/live/tom07/tom07/11239.ts
-#EXTINF:0,UK | Sky Movies Premiere HD
-http://vismanx1.com:8080/live/tom07/tom07/11241.ts
-#EXTINF:0,UK | Sky Movies Scifi / Horror HD
-http://vismanx1.com:8080/live/tom07/tom07/11240.ts
-#EXTINF:0,UK | SkyMoviesDrama HD
-http://vismanx1.com:8080/live/tom07/tom07/11231.ts
-#EXTINF:0,UK | SkyMoviesSelect HD
-http://vismanx1.com:8080/live/tom07/tom07/11230.ts
-#EXTINF:0,UK | SkyMoviesThriller
-http://vismanx1.com:8080/live/tom07/tom07/11229.ts
-#EXTINF:0,UK | SkyMTV
-http://vismanx1.com:8080/live/tom07/tom07/11236.ts
-#EXTINF:0,UK | SkyOne HD
-http://vismanx1.com:8080/live/tom07/tom07/11234.ts
-#EXTINF:0,UK | True Movies1 HD
-http://vismanx1.com:8080/live/tom07/tom07/11233.ts
-#EXTINF:0,UK | Yesterday
-http://vismanx1.com:8080/live/tom07/tom07/11244.ts
-#EXTINF:0,UK | ComedyCentral
-http://vismanx1.com:8080/live/tom07/tom07/11221.ts
-#EXTINF:0,UK | Discovery Science HD
-http://vismanx1.com:8080/live/tom07/tom07/11226.ts
-#EXTINF:0,UK | Discovery Turbo HD
-http://vismanx1.com:8080/live/tom07/tom07/11227.ts
-#EXTINF:0,UK | DiscoveryChannelHD
-http://vismanx1.com:8080/live/tom07/tom07/11224.ts
-#EXTINF:0,UK | DiscoveryShed
-http://vismanx1.com:8080/live/tom07/tom07/11225.ts
-#EXTINF:0,UK | DisneyChannel
-http://vismanx1.com:8080/live/tom07/tom07/11223.ts
-#EXTINF:0,UK | DisneyJunior
-http://vismanx1.com:8080/live/tom07/tom07/11222.ts
-#EXTINF:0,UK | Dmax.
-http://vismanx1.com:8080/live/tom07/tom07/11245.ts
-#EXTINF:0,UK | NationalGeographic
-http://vismanx1.com:8080/live/tom07/tom07/11228.ts
-#EXTINF:0,UK | PremierSport
-http://vismanx1.com:8080/live/tom07/tom07/11260.ts
-#EXTINF:0,UK | Racing
-http://vismanx1.com:8080/live/tom07/tom07/11232.ts
-#EXTINF:0,UK | EUROSPORT1
-http://vismanx1.com:8080/live/tom07/tom07/11246.ts
-#EXTINF:0,UK | EUROSPORT 2
-http://vismanx1.com:8080/live/tom07/tom07/11247.ts
-#EXTINF:0,UK | SkysportNews
-http://vismanx1.com:8080/live/tom07/tom07/11255.ts
-#EXTINF:0,UK | Sky Sport News
-http://vismanx1.com:8080/live/tom07/tom07/11254.ts
-#EXTINF:0,UK | Sky Sport Premier League
-http://vismanx1.com:8080/live/tom07/tom07/11252.ts
-#EXTINF:0,UK | Sky Sports Action
-http://vismanx1.com:8080/live/tom07/tom07/11248.ts
-#EXTINF:0,UK | Sky Sports Cricket
-http://vismanx1.com:8080/live/tom07/tom07/11249.ts
-#EXTINF:0,UK | Sky Sports F1
-http://vismanx1.com:8080/live/tom07/tom07/11253.ts
-#EXTINF:0,UK | Sky Sports Golf
-http://vismanx1.com:8080/live/tom07/tom07/11251.ts
-#EXTINF:0,UK | Sky Sports Main Event
-http://vismanx1.com:8080/live/tom07/tom07/11250.ts
-#EXTINF:0,-------------- | MUSIC | --------------
-http://vismanx1.com:8080/live/tom07/tom07/323.ts
-#EXTINF:0,MUSIC | AFRO MUSIC
-http://vismanx1.com:8080/live/tom07/tom07/10761.ts
-#EXTINF:0,MUSIC | BOX HITS
-http://vismanx1.com:8080/live/tom07/tom07/10760.ts
-#EXTINF:0,MUSIC | CAPITAL
-http://vismanx1.com:8080/live/tom07/tom07/10759.ts
-#EXTINF:0,MUSIC | CHANNEL AKA
-http://vismanx1.com:8080/live/tom07/tom07/10758.ts
-#EXTINF:0,MUSIC | HEART
-http://vismanx1.com:8080/live/tom07/tom07/10757.ts
-#EXTINF:0,MUSIC | HIP HOP 24/7
-http://vismanx1.com:8080/live/tom07/tom07/10756.ts
-#EXTINF:0,MUSIC | KISS TV
-http://vismanx1.com:8080/live/tom07/tom07/10755.ts
-#EXTINF:0,MUSIC | MTV BASE
-http://vismanx1.com:8080/live/tom07/tom07/10754.ts
-#EXTINF:0,MUSIC | MTV BRAND NEW
-http://vismanx1.com:8080/live/tom07/tom07/10753.ts
-#EXTINF:0,MUSIC | MTV CLASSIC
-http://vismanx1.com:8080/live/tom07/tom07/10752.ts
-#EXTINF:0,MUSIC | MTV DANCE
-http://vismanx1.com:8080/live/tom07/tom07/10751.ts
-#EXTINF:0,MUSIC | MTV HITS
-http://vismanx1.com:8080/live/tom07/tom07/10750.ts
-#EXTINF:0,MUSIC | MTV MUSIC
-http://vismanx1.com:8080/live/tom07/tom07/10749.ts
-#EXTINF:0,MUSIC | TRACE AFRICA
-http://vismanx1.com:8080/live/tom07/tom07/10748.ts
-#EXTINF:0,MUSIC | TRACE MIZKI
-http://vismanx1.com:8080/live/tom07/tom07/10747.ts
-#EXTINF:0,MUSIC | TRACE NAIJA
-http://vismanx1.com:8080/live/tom07/tom07/10746.ts
-#EXTINF:0,MUSIC | TRACE TOCA
-http://vismanx1.com:8080/live/tom07/tom07/10745.ts
-#EXTINF:0,MUSIC | TRACE TROPICAL
-http://vismanx1.com:8080/live/tom07/tom07/10744.ts
-#EXTINF:0,MUSIC | TRACE URBAN
-http://vismanx1.com:8080/live/tom07/tom07/10743.ts
-#EXTINF:0,MUSIC | VH1
-http://vismanx1.com:8080/live/tom07/tom07/10742.ts
-#EXTINF:0,MUSIC | VH1 CLASSIC
-http://vismanx1.com:8080/live/tom07/tom07/10741.ts
-#EXTINF:0,MUSIC | VIBEE TV
-http://vismanx1.com:8080/live/tom07/tom07/10740.ts
-#EXTINF:0,MUSIC | VINTAGE TV
-http://vismanx1.com:8080/live/tom07/tom07/10739.ts
+http://163.172.107.124:80/live/test22/test22/4314.ts
+#EXTINF:0,BLOOMBERG HT HD
+http://163.172.107.124:80/live/test22/test22/6043.ts
+#EXTINF:0,BEYAZ TV UHD
+http://163.172.107.124:80/live/test22/test22/6044.ts
+#EXTINF:0,BEYAZ TV
+http://163.172.107.124:80/live/test22/test22/2935.ts
+#EXTINF:0,FLASH TV
+http://163.172.107.124:80/live/test22/test22/6028.ts
+#EXTINF:0,KANAL 7 UHD
+http://163.172.107.124:80/live/test22/test22/6053.ts
+#EXTINF:0,KANAL 7
+http://163.172.107.124:80/live/test22/test22/2932.ts
+#EXTINF:0,A2 TV
+http://163.172.107.124:80/live/test22/test22/2355.ts
+#EXTINF:0,360 TV UHD
+http://163.172.107.124:80/live/test22/test22/6050.ts
+#EXTINF:0,360
+http://163.172.107.124:80/live/test22/test22/2945.ts
+#EXTINF:0,TV2
+http://163.172.107.124:80/live/test22/test22/2934.ts
+#EXTINF:0,KANAL 24
+http://163.172.107.124:80/live/test22/test22/2943.ts
+#EXTINF:0,TRT DiYANET
+http://163.172.107.124:80/live/test22/test22/2950.ts
+#EXTINF:0,SEMERKAND TV
+http://163.172.107.124:80/live/test22/test22/2949.ts
+#EXTINF:0,LALEGUL TV
+http://163.172.107.124:80/live/test22/test22/2948.ts
+#EXTINF:0,BENGU TURK
+http://163.172.107.124:80/live/test22/test22/2942.ts
+#EXTINF:0,******TR:BELGESEL******
+http://163.172.107.124:80/live/test22/test22/10130.ts
+#EXTINF:0,D MAX
+http://163.172.107.124:80/live/test22/test22/6008.ts
+#EXTINF:0,beIN Gurme HD
+http://163.172.107.124:80/live/test22/test22/2363.ts
+#EXTINF:0,LIFETIME HD
+http://163.172.107.124:80/live/test22/test22/18039.ts
+#EXTINF:0,beIN IZ TV UHD
+http://163.172.107.124:80/live/test22/test22/2608.ts
+#EXTINF:0,UZAYDAN CANLI YAYIN
+http://163.172.107.124:80/live/test22/test22/13853.ts
+#EXTINF:0,NAT GEO WILD HD uhd
+http://163.172.107.124:80/live/test22/test22/6011.ts
+#EXTINF:0,NAT GEO WILD
+http://163.172.107.124:80/live/test22/test22/27.ts
+#EXTINF:0,NATIONAL GEOGRAPHIC HD uhd
+http://163.172.107.124:80/live/test22/test22/6010.ts
+#EXTINF:0,Nat Geo
+http://163.172.107.124:80/live/test22/test22/671.ts
+#EXTINF:0,NAT GEO PEOPLE HD uhd
+http://163.172.107.124:80/live/test22/test22/6012.ts
+#EXTINF:0,ANIMAL PLANET UHD
+http://163.172.107.124:80/live/test22/test22/2957.ts
+#EXTINF:0,DISCOVERY UHD
+http://163.172.107.124:80/live/test22/test22/670.ts
+#EXTINF:0,DISCOVERY SCIENCE UHD
+http://163.172.107.124:80/live/test22/test22/2955.ts
+#EXTINF:0,DISCOVERY SHOWCASE UHD
+http://163.172.107.124:80/live/test22/test22/3404.ts
+#EXTINF:0,DISCOVERY DTX UHD
+http://163.172.107.124:80/live/test22/test22/4269.ts
+#EXTINF:0,DA VINCI LEARNING HD uhd
+http://163.172.107.124:80/live/test22/test22/6039.ts
+#EXTINF:0,BBC EART UHD
+http://163.172.107.124:80/live/test22/test22/3077.ts
+#EXTINF:0,HISTORY UHD
+http://163.172.107.124:80/live/test22/test22/4587.ts
+#EXTINF:0,CHASSE&PECHE HD
+http://163.172.107.124:80/live/test22/test22/15310.ts
+#EXTINF:0,YABAN TV uhd
+http://163.172.107.124:80/live/test22/test22/5991.ts
+#EXTINF:0,TLC uhd
+http://163.172.107.124:80/live/test22/test22/5998.ts
+#EXTINF:0,VIASAT HISTORY HD
+http://163.172.107.124:80/live/test22/test22/6156.ts
+#EXTINF:0,VIASAT EXPLORER HD
+http://163.172.107.124:80/live/test22/test22/6157.ts
+#EXTINF:0,VIASAT NATURE HD
+http://163.172.107.124:80/live/test22/test22/14838.ts
+#EXTINF:0,TRT BELGESEL
+http://163.172.107.124:80/live/test22/test22/2952.ts
+#EXTINF:0,******TR:COCUK******
+http://163.172.107.124:80/live/test22/test22/10131.ts
+#EXTINF:0,SMART COCUK UHD
+http://163.172.107.124:80/live/test22/test22/18037.ts
+#EXTINF:0,TRT COCUK uhd
+http://163.172.107.124:80/live/test22/test22/5996.ts
+#EXTINF:0,TRT COCUK
+http://163.172.107.124:80/live/test22/test22/679.ts
+#EXTINF:0,BABYTV uhd
+http://163.172.107.124:80/live/test22/test22/6045.ts
+#EXTINF:0,DISNEY CHANNEL uhd
+http://163.172.107.124:80/live/test22/test22/6038.ts
+#EXTINF:0,DISNEY JUNIOR uhd
+http://163.172.107.124:80/live/test22/test22/6037.ts
+#EXTINF:0,TR :NICKELEDEON
+http://163.172.107.124:80/live/test22/test22/14965.ts
+#EXTINF:0,MiNiKA COCUK uhd
+http://163.172.107.124:80/live/test22/test22/6014.ts
+#EXTINF:0,MiNiKA GO uhd
+http://163.172.107.124:80/live/test22/test22/6013.ts
+#EXTINF:0,BOOMERANG
+http://163.172.107.124:80/live/test22/test22/15309.ts
+#EXTINF:0,KIDZ/ANIMEZ
+http://163.172.107.124:80/live/test22/test22/6019.ts
+#EXTINF:0,BABYFIRST TV
+http://163.172.107.124:80/live/test22/test22/14966.ts
+#EXTINF:0,PLANET COCUK
+http://163.172.107.124:80/live/test22/test22/6004.ts
+#EXTINF:0,CARTOON NETWORK
+http://163.172.107.124:80/live/test22/test22/18029.ts
+#EXTINF:0,DIGI ANIMASYON
+http://163.172.107.124:80/live/test22/test22/2972.ts
+#EXTINF:0,****** Musik ******
+http://163.172.107.124:80/live/test22/test22/13077.ts
+#EXTINF:0,MTV LIVE
+http://163.172.107.124:80/live/test22/test22/15318.ts
+#EXTINF:0,MTV MUSIC
+http://163.172.107.124:80/live/test22/test22/15315.ts
+#EXTINF:0,MTV HITS
+http://163.172.107.124:80/live/test22/test22/15316.ts
+#EXTINF:0,MTV ROCKS
+http://163.172.107.124:80/live/test22/test22/15317.ts
+#EXTINF:0,TRACE URBAN MUSIC
+http://163.172.107.124:80/live/test22/test22/15314.ts
+#EXTINF:0,PINK MUSIC
+http://163.172.107.124:80/live/test22/test22/15319.ts
+#EXTINF:0,NR 1 HD+
+http://163.172.107.124:80/live/test22/test22/15320.ts
+#EXTINF:0,KRAL POP
+http://163.172.107.124:80/live/test22/test22/6017.ts
+#EXTINF:0,KRAL TV uhd
+http://163.172.107.124:80/live/test22/test22/6016.ts
+#EXTINF:0,TRT MUZIK uhd
+http://163.172.107.124:80/live/test22/test22/5994.ts
+#EXTINF:0,TRT MUZiK
+http://163.172.107.124:80/live/test22/test22/2977.ts
+#EXTINF:0,NUMBER1 TURK HD
+http://163.172.107.124:80/live/test22/test22/6007.ts
+#EXTINF:0,NUMBER1 TV HD
+http://163.172.107.124:80/live/test22/test22/6006.ts
+#EXTINF:0,POWER TURK HD
+http://163.172.107.124:80/live/test22/test22/6003.ts
+#EXTINF:0,POWER TV HD
+http://163.172.107.124:80/live/test22/test22/6002.ts
+#EXTINF:0,NUMBER ONE TURK
+http://163.172.107.124:80/live/test22/test22/2976.ts
+#EXTINF:0,MEGRI FM
+http://163.172.107.124:80/live/test22/test22/2718.ts
+#EXTINF:0,METRO FM
+http://163.172.107.124:80/live/test22/test22/2819.ts
+#EXTINF:0,POWERTURK
+http://163.172.107.124:80/live/test22/test22/2818.ts
+#EXTINF:0,ILAHI RADYO
+http://163.172.107.124:80/live/test22/test22/2751.ts
+#EXTINF:0,HARBI RADYO
+http://163.172.107.124:80/live/test22/test22/4316.ts
