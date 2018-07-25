@@ -1,198 +1,64 @@
 #EXTM3U
-#EXTINF:0,BURSASPOR TV
-http://163.172.107.124:80/live/test22/test22/676.ts
-#EXTINF:0,TRT SPOR UHD
-http://163.172.107.124:80/live/test22/test22/5993.ts
-#EXTINF:0,TRT SPOR
-http://163.172.107.124:80/live/test22/test22/2348.ts
-#EXTINF:0,ASPOR HD
-http://163.172.107.124:80/live/test22/test22/6048.ts
-#EXTINF:0,A SPOR HD
-http://163.172.107.124:80/live/test22/test22/673.ts
-#EXTINF:0,SPORTS TV uhd
-http://163.172.107.124:80/live/test22/test22/6001.ts
-#EXTINF:0,******TR:ULUSAL******
-http://163.172.107.124:80/live/test22/test22/10132.ts
-#EXTINF:0,TRT 4K
-http://163.172.107.124:80/live/test22/test22/20063.ts
-#EXTINF:0,TRT1 UHD
-http://163.172.107.124:80/live/test22/test22/6056.ts
-#EXTINF:0,TRT1 HD
-http://163.172.107.124:80/live/test22/test22/2931.ts
-#EXTINF:0,ATV UHD
-http://163.172.107.124:80/live/test22/test22/6057.ts
-#EXTINF:0,ATV HD
-http://163.172.107.124:80/live/test22/test22/2927.ts
-#EXTINF:0,FOX TV UHD
-http://163.172.107.124:80/live/test22/test22/6051.ts
-#EXTINF:0,FOX TV
-http://163.172.107.124:80/live/test22/test22/2929.ts
-#EXTINF:0,SHOW TV UHD
-http://163.172.107.124:80/live/test22/test22/6060.ts
-#EXTINF:0,SHOW TV
-http://163.172.107.124:80/live/test22/test22/2921.ts
-#EXTINF:0,KANAL D UHD
-http://163.172.107.124:80/live/test22/test22/6059.ts
-#EXTINF:0,KANAL D
-http://163.172.107.124:80/live/test22/test22/2919.ts
-#EXTINF:0,STAR TV UHD
-http://163.172.107.124:80/live/test22/test22/6058.ts
-#EXTINF:0,STAR TV HD
-http://163.172.107.124:80/live/test22/test22/14973.ts
-#EXTINF:0,TV8 UHD
-http://163.172.107.124:80/live/test22/test22/6055.ts
-#EXTINF:0,TV8 HD
-http://163.172.107.124:80/live/test22/test22/2925.ts
-#EXTINF:0,TV 8.5 UHD
-http://163.172.107.124:80/live/test22/test22/2933.ts
-#EXTINF:0,NTV UHD
-http://163.172.107.124:80/live/test22/test22/6009.ts
-#EXTINF:0,NTV
-http://163.172.107.124:80/live/test22/test22/2937.ts
-#EXTINF:0,CNN TURK-UHD
-http://163.172.107.124:80/live/test22/test22/6040.ts
-#EXTINF:0,CNN TURK
-http://163.172.107.124:80/live/test22/test22/2939.ts
-#EXTINF:0,TRT HABER UHD
-http://163.172.107.124:80/live/test22/test22/5995.ts
-#EXTINF:0,TRT HABER
-http://163.172.107.124:80/live/test22/test22/2936.ts
-#EXTINF:0,HABER TURK-UHD
-http://163.172.107.124:80/live/test22/test22/6025.ts
-#EXTINF:0,HABER TURK
-http://163.172.107.124:80/live/test22/test22/2941.ts
-#EXTINF:0,A HABER UHD
-http://163.172.107.124:80/live/test22/test22/6049.ts
-#EXTINF:0,A HABER
-http://163.172.107.124:80/live/test22/test22/2938.ts
-#EXTINF:0,TVNET UHD
-http://163.172.107.124:80/live/test22/test22/18038.ts
-#EXTINF:0,TGRT HABER-UHD
-http://163.172.107.124:80/live/test22/test22/5999.ts
-#EXTINF:0,TGRT HABER
-http://163.172.107.124:80/live/test22/test22/2940.ts
-#EXTINF:0,HALK TV uhd
-http://163.172.107.124:80/live/test22/test22/6024.ts
-#EXTINF:0,ULKE TV-UHD
-http://163.172.107.124:80/live/test22/test22/6052.ts
-#EXTINF:0,ULUSAL TV
-http://163.172.107.124:80/live/test22/test22/4314.ts
-#EXTINF:0,BLOOMBERG HT HD
-http://163.172.107.124:80/live/test22/test22/6043.ts
-#EXTINF:0,BEYAZ TV UHD
-http://163.172.107.124:80/live/test22/test22/6044.ts
-#EXTINF:0,BEYAZ TV
-http://163.172.107.124:80/live/test22/test22/2935.ts
-#EXTINF:0,FLASH TV
-http://163.172.107.124:80/live/test22/test22/6028.ts
-#EXTINF:0,KANAL 7 UHD
-http://163.172.107.124:80/live/test22/test22/6053.ts
-#EXTINF:0,KANAL 7
-http://163.172.107.124:80/live/test22/test22/2932.ts
-#EXTINF:0,A2 TV
-http://163.172.107.124:80/live/test22/test22/2355.ts
-#EXTINF:0,360 TV UHD
-http://163.172.107.124:80/live/test22/test22/6050.ts
-#EXTINF:0,360
-http://163.172.107.124:80/live/test22/test22/2945.ts
-#EXTINF:0,TV2
-http://163.172.107.124:80/live/test22/test22/2934.ts
-#EXTINF:0,KANAL 24
-http://163.172.107.124:80/live/test22/test22/2943.ts
-#EXTINF:0,TRT DiYANET
-http://163.172.107.124:80/live/test22/test22/2950.ts
-#EXTINF:0,SEMERKAND TV
-http://163.172.107.124:80/live/test22/test22/2949.ts
-#EXTINF:0,LALEGUL TV
-http://163.172.107.124:80/live/test22/test22/2948.ts
-#EXTINF:0,BENGU TURK
-http://163.172.107.124:80/live/test22/test22/2942.ts
-#EXTINF:0,******TR:BELGESEL******
-http://163.172.107.124:80/live/test22/test22/10130.ts
-#EXTINF:0,D MAX
-http://163.172.107.124:80/live/test22/test22/6008.ts
-#EXTINF:0,beIN Gurme HD
-http://163.172.107.124:80/live/test22/test22/2363.ts
-#EXTINF:0,LIFETIME HD
-http://163.172.107.124:80/live/test22/test22/18039.ts
-#EXTINF:0,beIN IZ TV UHD
-http://163.172.107.124:80/live/test22/test22/2608.ts
-#EXTINF:0,UZAYDAN CANLI YAYIN
-http://163.172.107.124:80/live/test22/test22/13853.ts
-#EXTINF:0,NAT GEO WILD HD uhd
-http://163.172.107.124:80/live/test22/test22/6011.ts
-#EXTINF:0,NAT GEO WILD
-http://163.172.107.124:80/live/test22/test22/27.ts
-#EXTINF:0,NATIONAL GEOGRAPHIC HD uhd
-http://163.172.107.124:80/live/test22/test22/6010.ts
-#EXTINF:0,Nat Geo
-http://163.172.107.124:80/live/test22/test22/671.ts
-#EXTINF:0,NAT GEO PEOPLE HD uhd
-http://163.172.107.124:80/live/test22/test22/6012.ts
-#EXTINF:0,ANIMAL PLANET UHD
-http://163.172.107.124:80/live/test22/test22/2957.ts
-#EXTINF:0,DISCOVERY UHD
-http://163.172.107.124:80/live/test22/test22/670.ts
-#EXTINF:0,DISCOVERY SCIENCE UHD
-http://163.172.107.124:80/live/test22/test22/2955.ts
-#EXTINF:0,DISCOVERY SHOWCASE UHD
-http://163.172.107.124:80/live/test22/test22/3404.ts
-#EXTINF:0,DISCOVERY DTX UHD
-http://163.172.107.124:80/live/test22/test22/4269.ts
-#EXTINF:0,DA VINCI LEARNING HD uhd
-http://163.172.107.124:80/live/test22/test22/6039.ts
-#EXTINF:0,BBC EART UHD
-http://163.172.107.124:80/live/test22/test22/3077.ts
-#EXTINF:0,HISTORY UHD
-http://163.172.107.124:80/live/test22/test22/4587.ts
-#EXTINF:0,CHASSE&PECHE HD
-http://163.172.107.124:80/live/test22/test22/15310.ts
-#EXTINF:0,YABAN TV uhd
-http://163.172.107.124:80/live/test22/test22/5991.ts
-#EXTINF:0,TLC uhd
-http://163.172.107.124:80/live/test22/test22/5998.ts
-#EXTINF:0,VIASAT HISTORY HD
-http://163.172.107.124:80/live/test22/test22/6156.ts
-#EXTINF:0,VIASAT EXPLORER HD
-http://163.172.107.124:80/live/test22/test22/6157.ts
-#EXTINF:0,VIASAT NATURE HD
-http://163.172.107.124:80/live/test22/test22/14838.ts
-#EXTINF:0,TRT BELGESEL
-http://163.172.107.124:80/live/test22/test22/2952.ts
-#EXTINF:0,******TR:COCUK******
-http://163.172.107.124:80/live/test22/test22/10131.ts
-#EXTINF:0,SMART COCUK UHD
-http://163.172.107.124:80/live/test22/test22/18037.ts
-#EXTINF:0,TRT COCUK uhd
-http://163.172.107.124:80/live/test22/test22/5996.ts
-#EXTINF:0,TRT COCUK
-http://163.172.107.124:80/live/test22/test22/679.ts
-#EXTINF:0,BABYTV uhd
-http://163.172.107.124:80/live/test22/test22/6045.ts
-#EXTINF:0,DISNEY CHANNEL uhd
-http://163.172.107.124:80/live/test22/test22/6038.ts
-#EXTINF:0,DISNEY JUNIOR uhd
-http://163.172.107.124:80/live/test22/test22/6037.ts
-#EXTINF:0,TR :NICKELEDEON
+#EXTINF:0,NICKELEDEON
 http://163.172.107.124:80/live/test22/test22/14965.ts
-#EXTINF:0,MiNiKA COCUK uhd
+#EXTINF:0,MiNiKA COCUK
 http://163.172.107.124:80/live/test22/test22/6014.ts
-#EXTINF:0,MiNiKA GO uhd
+#EXTINF:0,MiNiKA GO
 http://163.172.107.124:80/live/test22/test22/6013.ts
-#EXTINF:0,BOOMERANG
-http://163.172.107.124:80/live/test22/test22/15309.ts
-#EXTINF:0,KIDZ/ANIMEZ
-http://163.172.107.124:80/live/test22/test22/6019.ts
-#EXTINF:0,BABYFIRST TV
-http://163.172.107.124:80/live/test22/test22/14966.ts
-#EXTINF:0,PLANET COCUK
-http://163.172.107.124:80/live/test22/test22/6004.ts
+#EXTINF:0,TRT COCUK
+http://163.172.107.124:80/live/test22/test22/5996.ts
 #EXTINF:0,CARTOON NETWORK
 http://163.172.107.124:80/live/test22/test22/18029.ts
+#EXTINF:0,SMART COCUK
+http://163.172.107.124:80/live/test22/test22/18037.ts
 #EXTINF:0,DIGI ANIMASYON
 http://163.172.107.124:80/live/test22/test22/2972.ts
-#EXTINF:0,****** Musik ******
-http://163.172.107.124:80/live/test22/test22/13077.ts
+#EXTINF:0,DISNEY CHANNEL
+http://163.172.107.124:80/live/test22/test22/6038.ts
+#EXTINF:0,DISNEY JUNIOR
+http://163.172.107.124:80/live/test22/test22/6037.ts
+#EXTINF:0,KIDZ/ANIMEZ
+http://163.172.107.124:80/live/test22/test22/6019.ts
+#EXTINF:0,PLANET COCUK
+http://163.172.107.124:80/live/test22/test22/6004.ts
+#EXTINF:0,BABYTV
+http://163.172.107.124:80/live/test22/test22/6045.ts
+#EXTINF:0,BABYFIRST TV
+http://163.172.107.124:80/live/test22/test22/14966.ts
+#EXTINF:0,TLC
+http://163.172.107.124:80/live/test22/test22/5998.ts
+#EXTINF:0,D MAX
+http://163.172.107.124:80/live/test22/test22/6008.ts
+#EXTINF:0,LIFETIME
+http://163.172.107.124:80/live/test22/test22/18039.ts
+#EXTINF:0,beIN Gurme
+http://163.172.107.124:80/live/test22/test22/2363.ts
+#EXTINF:0,DISCOVERY
+http://163.172.107.124:80/live/test22/test22/670.ts
+#EXTINF:0,DISCOVERY SCIENCE
+http://163.172.107.124:80/live/test22/test22/2955.ts
+#EXTINF:0,DISCOVERY SHOWCASE
+http://163.172.107.124:80/live/test22/test22/3404.ts
+#EXTINF:0,DISCOVERY DTX
+http://163.172.107.124:80/live/test22/test22/4269.ts
+#EXTINF:0,NATIONAL GEOGRAPHIC
+http://163.172.107.124:80/live/test22/test22/6010.ts
+#EXTINF:0,NAT GEO PEOPLE
+http://163.172.107.124:80/live/test22/test22/6012.ts
+#EXTINF:0,NAT GEO WILD
+http://163.172.107.124:80/live/test22/test22/6011.ts
+#EXTINF:0,ANIMAL PLANET
+http://163.172.107.124:80/live/test22/test22/2957.ts
+#EXTINF:0,BBC EARTH
+http://163.172.107.124:80/live/test22/test22/3077.ts
+#EXTINF:0,HISTORY
+http://163.172.107.124:80/live/test22/test22/4587.ts
+#EXTINF:0,CHASSE&PECHE
+http://163.172.107.124:80/live/test22/test22/15310.ts
+#EXTINF:0,YABAN TV
+http://163.172.107.124:80/live/test22/test22/5991.ts
+#EXTINF:0,VIASAT HISTORY
+http://163.172.107.124:80/live/test22/test22/6156.ts
 #EXTINF:0,MTV LIVE
 http://163.172.107.124:80/live/test22/test22/15318.ts
 #EXTINF:0,MTV MUSIC
@@ -207,31 +73,7 @@ http://163.172.107.124:80/live/test22/test22/15314.ts
 http://163.172.107.124:80/live/test22/test22/15319.ts
 #EXTINF:0,NR 1 HD+
 http://163.172.107.124:80/live/test22/test22/15320.ts
-#EXTINF:0,KRAL POP
-http://163.172.107.124:80/live/test22/test22/6017.ts
-#EXTINF:0,KRAL TV uhd
-http://163.172.107.124:80/live/test22/test22/6016.ts
-#EXTINF:0,TRT MUZIK uhd
-http://163.172.107.124:80/live/test22/test22/5994.ts
-#EXTINF:0,TRT MUZiK
-http://163.172.107.124:80/live/test22/test22/2977.ts
-#EXTINF:0,NUMBER1 TURK HD
-http://163.172.107.124:80/live/test22/test22/6007.ts
 #EXTINF:0,NUMBER1 TV HD
 http://163.172.107.124:80/live/test22/test22/6006.ts
-#EXTINF:0,POWER TURK HD
-http://163.172.107.124:80/live/test22/test22/6003.ts
 #EXTINF:0,POWER TV HD
 http://163.172.107.124:80/live/test22/test22/6002.ts
-#EXTINF:0,NUMBER ONE TURK
-http://163.172.107.124:80/live/test22/test22/2976.ts
-#EXTINF:0,MEGRI FM
-http://163.172.107.124:80/live/test22/test22/2718.ts
-#EXTINF:0,METRO FM
-http://163.172.107.124:80/live/test22/test22/2819.ts
-#EXTINF:0,POWERTURK
-http://163.172.107.124:80/live/test22/test22/2818.ts
-#EXTINF:0,ILAHI RADYO
-http://163.172.107.124:80/live/test22/test22/2751.ts
-#EXTINF:0,HARBI RADYO
-http://163.172.107.124:80/live/test22/test22/4316.ts
