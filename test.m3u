@@ -1,3 +1,47 @@
 #EXTM3U
-#EXTINF:0,1 beIN Futbol
+#EXTINF:0,NICKELODEON TR
+http://54.36.111.175:8000/live/ZzQUCDggym/NpcvPnxVVM/271.ts
+#EXTINF:0,NICK JR
+http://54.36.111.175:8000/live/ZzQUCDggym/NpcvPnxVVM/237.ts
+#EXTINF:0,DISNEY JR
+http://54.36.111.175:8000/live/ZzQUCDggym/NpcvPnxVVM/231.ts
+#EXTINF:0,BABYFIRST
+http://54.36.111.175:8000/live/ZzQUCDggym/NpcvPnxVVM/176.ts
+#EXTINF:0,TURKMAX GURME
+http://54.36.111.175:8000/live/ZzQUCDggym/NpcvPnxVVM/1635.ts
+#EXTINF:0,DISCOVERY CHANNEL TR
+http://54.36.111.175:8000/live/ZzQUCDggym/NpcvPnxVVM/1611.ts
+#EXTINF:0,DISCOVERY SCIENCE
+http://54.36.111.175:8000/live/ZzQUCDggym/NpcvPnxVVM/1791.ts
+#EXTINF:0,DISCOVERY SHOWCASE
+http://54.36.111.175:8000/live/ZzQUCDggym/NpcvPnxVVM/1790.ts
+#EXTINF:0,NAT GEO HD TR
+http://54.36.111.175:8000/live/ZzQUCDggym/NpcvPnxVVM/326.ts
+#EXTINF:0,NAT GEO WILD HD
+http://54.36.111.175:8000/live/ZzQUCDggym/NpcvPnxVVM/194.ts
+#EXTINF:0,HISTORY HD
+http://54.36.111.175:8000/live/ZzQUCDggym/NpcvPnxVVM/264.ts
+#EXTINF:0,IZ TV
+http://54.36.111.175:8000/live/ZzQUCDggym/NpcvPnxVVM/1457.ts
+#EXTINF:0,TR: LIG TV (BeinSPorts) 1 HD
 http://163.172.62.63:8000/live/fazeel/fazeel/2061.ts
+#EXTINF:0,TR: LIG TV
+http://163.172.62.63:8000/live/fazeel/fazeel/4356.ts
+#EXTINF:0,TR: LIGTV 2
+http://163.172.62.63:8000/live/fazeel/fazeel/4354.ts
+#EXTINF:0,TR: LIG TV 3
+http://163.172.62.63:8000/live/fazeel/fazeel/4352.ts
+#EXTINF:0,TR: LIG TV 4
+http://163.172.62.63:8000/live/fazeel/fazeel/4351.ts
+#EXTINF:0,TR: LIGTV 2 VIP
+http://163.172.62.63:8000/live/fazeel/fazeel/4355.ts
+#EXTINF:0,TR: LIGTV 3 VIP
+http://163.172.62.63:8000/live/fazeel/fazeel/4353.ts
+#EXTINF:0,TR: SMARTSPOR
+http://163.172.62.63:8000/live/fazeel/fazeel/4339.ts
+#EXTINF:0,TR: TIVIBUSPOR
+http://163.172.62.63:8000/live/fazeel/fazeel/4346.ts
+#EXTINF:0,TR: TIVIBUSPOR 2
+http://163.172.62.63:8000/live/fazeel/fazeel/4344.ts
+#EXTINF:0,TR: TIVIBUSPOR 3
+http://163.172.62.63:8000/live/fazeel/fazeel/4342.ts
