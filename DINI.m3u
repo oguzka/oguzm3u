@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="### TURK DINI ####" group-title="TR DINI",### TURK DINI ####
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/125
+#EXTINF:-1 tvg-name="TR: DIYANET TV" group-title="TR DINI",TR: DIYANET TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/474
+#EXTINF:-1 tvg-name="TR: KABE TV CANLI" group-title="TR DINI",TR: KABE TV CANLI
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/7551
+#EXTINF:-1 tvg-id="dosttv.tr" tvg-name="TR: DOST TV" group-title="TR DINI",TR: DOST TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/478
+#EXTINF:-1 tvg-name="TR: FM TV" group-title="TR DINI",TR: FM TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/479
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR: LALEGUL TV" group-title="TR DINI",TR: LALEGUL TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/4189
+#EXTINF:-1 tvg-name="TR: REHBER TV" group-title="TR DINI",TR: REHBER TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/477
+#EXTINF:-1 tvg-name="TR: SEMERKAND TV HD" group-title="TR DINI",TR: SEMERKAND TV HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/483
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR: TV5" group-title="TR DINI",TR: TV5
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/481
+#EXTINF:-1 tvg-name="TR: Kardelen TV" group-title="TR DINI",TR: Kardelen TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/60899
+#EXTINF:-1 tvg-name="TR: Meltem TV" group-title="TR DINI",TR: Meltem TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/57556
+#EXTINF:-1 tvg-name="TR: KUDUS TV" group-title="TR DINI",TR: KUDUS TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/57557
+#EXTINF:-1 tvg-name="TR: FMTV" group-title="TR DINI",TR: FMTV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/57558
+#EXTINF:-1 tvg-name="TR: GONCA TV" group-title="TR DINI",TR: GONCA TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/57559
+#EXTINF:-1 tvg-name="TR: SAT 7 TURK" group-title="TR DINI",TR: SAT 7 TURK
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/57560
