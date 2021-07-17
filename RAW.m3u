@@ -1,0 +1,77 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 RAW" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-1-tr.png" group-title="TR RAW",TR: TRT 1 RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114554
+#EXTINF:-1 tvg-name="TR: TRT2 RAW" group-title="TR RAW",TR: TRT2 RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114811
+#EXTINF:-1 tvg-name="TR: ATV RAW" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png" group-title="TR RAW",TR: ATV RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114836
+#EXTINF:-1 tvg-name="TR: Show TV RAW" tvg-logo="http://iptvtelekom.com/newpicon/showtv.png" group-title="TR RAW",TR: Show TV RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114837
+#EXTINF:-1 tvg-name="TR: STAR TV RAW" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" group-title="TR RAW",TR: STAR TV RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114838
+#EXTINF:-1 tvg-name="TR: KANAL D RAW" tvg-logo="http://iptvtelekom.com/newpicon/kanald.png" group-title="TR RAW",TR: KANAL D RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114809
+#EXTINF:-1 tvg-name="TR: FOX TV RAW" tvg-logo="http://iptvtelekom.com/newpicon/foxtv.png" group-title="TR RAW",TR: FOX TV RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114822
+#EXTINF:-1 tvg-name="TR: TV8 RAW" group-title="TR RAW",TR: TV8 RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114831
+#EXTINF:-1 tvg-name="TR: TV8 5 RAW" group-title="TR RAW",TR: TV8 5 RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114830
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR: A2 RAW" tvg-logo="http://iptvtelekom.com/newpicon/a2hd.png" group-title="TR RAW",TR: A2 RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114819
+#EXTINF:-1 tvg-name="TR: BEYAZ TV RAW" tvg-logo="http://iptvtelekom.com/newpicon/beyaztv.png" group-title="TR RAW",TR: BEYAZ TV RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114820
+#EXTINF:-1 tvg-name="TR: KANAL 7 RAW" tvg-logo="http://iptvtelekom.com/newpicon/tv7hd.png" group-title="TR RAW",TR: KANAL 7 RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114824
+#EXTINF:-1 tvg-name="TR: teve2 RAW" tvg-logo="http://iptvtelekom.com/newpicon/teve2.png" group-title="TR RAW",TR: teve2 RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114812
+#EXTINF:-1 tvg-name="TR: NTV RAW" group-title="TR RAW",TR: NTV RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114825
+#EXTINF:-1 tvg-name="TR: HABERTURK RAW" group-title="TR RAW",TR: HABERTURK RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114823
+#EXTINF:-1 tvg-name="TR: CNN TÜRK RAW" tvg-logo="http://iptvtelekom.com/newpicon/cnnturk.png" group-title="TR RAW",TR: CNN TÜRK RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114808
+#EXTINF:-1 tvg-name="TR: A HABER RAW" tvg-logo="http://iptvtelekom.com/newpicon/ahaber.png" group-title="TR RAW",TR: A HABER RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114815
+#EXTINF:-1 tvg-name="TR: A NEWS RAW" group-title="TR RAW",TR: A NEWS RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114816
+#EXTINF:-1 tvg-name="TR: A PARA RAW" group-title="TR RAW",TR: A PARA RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114817
+#EXTINF:-1 tvg-name="TR: 24 RAW" group-title="TR RAW",TR: 24 RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114813
+#EXTINF:-1 tvg-name="TR: 360 RAW" group-title="TR RAW",TR: 360 RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114814
+#EXTINF:-1 tvg-name="TR: BLOOMBERGHT RAW" tvg-logo="http://iptvtelekom.com/newpicon/bloomberg.png" group-title="TR RAW",TR: BLOOMBERGHT RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114821
+#EXTINF:-1 tvg-name="TR: TRT HABER RAW" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-haber-tr.png" group-title="TR RAW",TR: TRT HABER RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114828
+#EXTINF:-1 tvg-name="TR: TRT SPOR RAW" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_spor_tr.png" group-title="TR RAW",TR: TRT SPOR RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114829
+#EXTINF:-1 tvg-name="TR: TRT WORLD RAW" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_world_tr.png" group-title="TR RAW",TR: TRT WORLD RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114832
+#EXTINF:-1 tvg-name="TR: TRT TURK RAW" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_turk_tr.png" group-title="TR RAW",TR: TRT TURK RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114833
+#EXTINF:-1 tvg-name="TR: TRT MUZIK RAW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TRT_M%C3%BCzik_logo.svg/1920px-TRT_M%C3%BCzik_logo.svg.png" group-title="TR RAW",TR: TRT MUZIK RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114834
+#EXTINF:-1 tvg-name="TR: TRT KURDI RAW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/TRT_Kurd%C3%AE_logosu.png" group-title="TR RAW",TR: TRT KURDI RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114835
+#EXTINF:-1 tvg-name="TR: A SPOR RAW" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png" group-title="TR RAW",TR: A SPOR RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114818
+#EXTINF:-1 tvg-name="TR: beIN SPORTS HABER RAW" group-title="TR RAW",TR: beIN SPORTS HABER RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114869
+#EXTINF:-1 tvg-name="TR: TIVIBU SPOR RAW" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/db/TivibuSporLogo1.PNG" group-title="TR RAW",TR: TIVIBU SPOR RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114868
+#EXTINF:-1 tvg-name="TR: TRT COCUK RAW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TRT_%C3%87ocuk_kurumsal_logo.png/1280px-TRT_%C3%87ocuk_kurumsal_logo.png" group-title="TR RAW",TR: TRT COCUK RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114827
+#EXTINF:-1 tvg-name="TR: DISCOVERY SCIENCE RAW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" group-title="TR RAW",TR: DISCOVERY SCIENCE RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114848
+#EXTINF:-1 tvg-name="TR: TRT BELGESEL RAW" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-belgesel-tr.png" group-title="TR RAW",TR: TRT BELGESEL RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114826
+#EXTINF:-1 tvg-name="TR: SEMERKAND RAW" group-title="TR RAW",TR: SEMERKAND RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114810
+#EXTINF:-1 tvg-name="TR: BRT 1 RAW" group-title="TR RAW",TR: BRT 1 RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114882
+#EXTINF:-1 tvg-name="TR: BRT 2 RAW" group-title="TR RAW",TR: BRT 2 RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114883
+#EXTINF:-1 tvg-name="TR: TRT SPOR YILDIZ RAW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/1920px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" group-title="TR RAW",TR: TRT SPOR YILDIZ RAW
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114886

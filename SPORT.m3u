@@ -1,0 +1,67 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-name="TR: TiViBUSPOR 1 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/db/TivibuSporLogo1.PNG" group-title="TR SPORT",TR: TiViBUSPOR 1 HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/298
+#EXTINF:-1 tvg-name="TR: TiViBUSPOR 2 HD+" tvg-logo="http://axe.tvlogos.xyz:8080/logos/tivibuspor2hd.png" group-title="TR SPORT",TR: TiViBUSPOR 2 HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/299
+#EXTINF:-1 tvg-name="TR: TiViBUSPOR 3 HD+" tvg-logo="http://axe.tvlogos.xyz:8080/logos/tivibuspor3hd.png" group-title="TR SPORT",TR: TiViBUSPOR 3 HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/300
+#EXTINF:-1 tvg-name="TR: TIVIBUSPOR 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/db/TivibuSporLogo1.PNG" group-title="TR SPORT",TR: TIVIBUSPOR 1 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/268
+#EXTINF:-1 tvg-name="TR: TIVIBUSPOR 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/79/Tivibu_SPOR_2_logo.jpg" group-title="TR SPORT",TR: TIVIBUSPOR 2 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/269
+#EXTINF:-1 tvg-name="TR: TIVIBUSPOR 3 HD" tvg-logo="http://axe.tvlogos.xyz:8080/logos/tivibuspor3hd.png" group-title="TR SPORT",TR: TIVIBUSPOR 3 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/270
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S-SPORT HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s_sport_tr.png" group-title="TR SPORT",TR: S-SPORT HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/271
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S-SPORT 1 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s_sport_tr.png" group-title="TR SPORT",TR: S-SPORT 1 HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/294
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S-SPORT 1 HD++" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s_sport_tr.png" group-title="TR SPORT",TR: S-SPORT 1 HD++
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/305
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S-SPORT 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/ssport-2-tr.png" group-title="TR SPORT",TR: S-SPORT 2 HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/295
+#EXTINF:-1 tvg-name="TR: S-SPORT 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/ssport-2-tr.png" group-title="TR SPORT",TR: S-SPORT 2 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/116073
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SPORT SMART HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Smart-spor_635084424044881793.png" group-title="TR SPORT",TR: SPORT SMART HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/301
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SPORT SMART HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Smart-spor_635084424044881793.png" group-title="TR SPORT",TR: SPORT SMART HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/302
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SPOR SMART HD++" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Smart-spor_635084424044881793.png" group-title="TR SPORT",TR: SPOR SMART HD++
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/297
+#EXTINF:-1 tvg-name="TR: SPOR SMART HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Smart-spor_635084424044881793.png" group-title="TR SPORT",TR: SPOR SMART HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/272
+#EXTINF:-1 tvg-name="TR: SPOR SMART 2 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Smart-spor-2_635084424082165858.png" group-title="TR SPORT",TR: SPOR SMART 2 HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/69715
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="TR: NBA TV HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png" group-title="TR SPORT",TR: NBA TV HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/296
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="TR: NBA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png" group-title="TR SPORT",TR: NBA TV HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/274
+#EXTINF:-1 tvg-name="TR: FIGHTBOX HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/92/FightBox_logo.png" group-title="TR SPORT",TR: FIGHTBOX HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/67573
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-name="TR: SPORTSTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/48/Sportstv_logosu.png" group-title="TR SPORT",TR: SPORTSTV HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/278
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_spor_tr.png" group-title="TR SPORT",TR: TRT SPOR HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/283
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_spor_tr.png" group-title="TR SPORT",TR: TRT SPOR HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/281
+#EXTINF:-1 tvg-id="trtspor2.tr" tvg-name="TR: TRT SPOR YILDIZ HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/1920px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" group-title="TR SPORT",TR: TRT SPOR YILDIZ HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114887
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR YILDIZ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/1920px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" group-title="TR SPORT",TR: TRT SPOR YILDIZ HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/282
+#EXTINF:-1 tvg-name="TR: TRT 3 SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/TRT_3-Spor_kurumsal_logo.png/1920px-TRT_3-Spor_kurumsal_logo.png" group-title="TR SPORT",TR: TRT 3 SPOR
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114885
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR: A SPOR HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png" group-title="TR SPORT",TR: A SPOR HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/284
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR: A SPOR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png" group-title="TR SPORT",TR: A SPOR HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/280
+#EXTINF:-1 tvg-name="TR: UFC Fight Pass" group-title="TR SPORT",TR: UFC Fight Pass
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/66084
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="TR: EUROSPORT 1 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1920px-Eurosport_1_Logo_2015.svg.png" group-title="TR SPORT",TR: EUROSPORT 1 HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/275
+#EXTINF:-1 tvg-id="eurosport2.tr" tvg-name="TR: EUROSPORT 2 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eurosport_2_Logo_2015.png" group-title="TR SPORT",TR: EUROSPORT 2 HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/276
+#EXTINF:-1 tvg-name="TR: FB TV HD" tvg-logo="http://www.meibur.com/uploads/kanal/20214fb.png" group-title="TR SPORT",TR: FB TV HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/259
+#EXTINF:-1 tvg-name="TR: GS TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a1/Gstv-yeni.PNG" group-title="TR SPORT",TR: GS TV HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/277
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TJK TV HD" tvg-logo="https://w7.pngwing.com/pngs/573/693/png-transparent-jockey-club-of-turkey-logo-encapsulated-postscript-tjk-tv-business-cdr-text-rectangle-thumbnail.png" group-title="TR SPORT",TR: TJK TV HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/279

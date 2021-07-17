@@ -1,0 +1,65 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-name="TR: ENO RELAX MUSIC 1" group-title="TR MUZIK",TR: ENO RELAX MUSIC 1
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112090
+#EXTINF:-1 tvg-name="TR: ENO RELAX MUSIC 2" group-title="TR MUZIK",TR: ENO RELAX MUSIC 2
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112091
+#EXTINF:-1 tvg-name="TR: ENO RELAX MUSIC 3" group-title="TR MUZIK",TR: ENO RELAX MUSIC 3
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112092
+#EXTINF:-1 tvg-name="TR: ENO RELAX MUSIC 4" group-title="TR MUZIK",TR: ENO RELAX MUSIC 4
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112093
+#EXTINF:-1 tvg-name="TR: ENO RELAX MUSIC 5" group-title="TR MUZIK",TR: ENO RELAX MUSIC 5
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112094
+#EXTINF:-1 tvg-name="TR: ENO RELAX 90'lar" group-title="TR MUZIK",TR: ENO RELAX 90'lar
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112095
+#EXTINF:-1 tvg-name="#### TURK MUZIK ####" group-title="TR MUZIK",#### TURK MUZIK ####
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/473
+#EXTINF:-1 tvg-id="trtmuzik.tr" tvg-name="TR: TRT MUZiK HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TRT_M%C3%BCzik_logo.svg/1920px-TRT_M%C3%BCzik_logo.svg.png" group-title="TR MUZIK",TR: TRT MUZiK HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/464
+#EXTINF:-1 tvg-id="dreamtv.tr" tvg-name="TR: DREAM TV" group-title="TR MUZIK",TR: DREAM TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/455
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: DREAM TURK" group-title="TR MUZIK",TR: DREAM TURK
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/459
+#EXTINF:-1 tvg-id="powerturk.tr" tvg-name="TR: POWER TURK HD" group-title="TR MUZIK",TR: POWER TURK HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/462
+#EXTINF:-1 tvg-name="TR: POWER HD" group-title="TR MUZIK",TR: POWER HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/456
+#EXTINF:-1 tvg-name="TR: NR1 TURK HD" group-title="TR MUZIK",TR: NR1 TURK HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/466
+#EXTINF:-1 tvg-name="TR: NR 1 HD" group-title="TR MUZIK",TR: NR 1 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/465
+#EXTINF:-1 tvg-name="TR: Film AX MÜZIK ROMAN " group-title="TR MUZIK",TR: Film AX MÜZIK ROMAN 
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/66919
+#EXTINF:-1 tvg-name="TR: REDBOX TURKCE POP" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR MUZIK",TR: REDBOX TURKCE POP
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/54844
+#EXTINF:-1 tvg-name="TR: REDBOX ARABESK TV" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR MUZIK",TR: REDBOX ARABESK TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/54845
+#EXTINF:-1 tvg-id="kralpop.tr" tvg-name="TR: KRAL POP HD+" group-title="TR MUZIK",TR: KRAL POP HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/469
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: KRAL TV HD" group-title="TR MUZIK",TR: KRAL TV HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/458
+#EXTINF:-1 tvg-name="TR: Radyo Alaturka" group-title="TR MUZIK",TR: Radyo Alaturka
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/55382
+#EXTINF:-1 tvg-name="TR: Radyo 45'lik" group-title="TR MUZIK",TR: Radyo 45'lik
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/55383
+#EXTINF:-1 tvg-name="TR: Efkar Fm Canlı Radyo" group-title="TR MUZIK",TR: Efkar Fm Canlı Radyo
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/55384
+#EXTINF:-1 tvg-name="TR: ZEKI BABA" group-title="TR MUZIK",TR: ZEKI BABA
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/55385
+#EXTINF:-1 tvg-name="TR: Alem FM" group-title="TR MUZIK",TR: Alem FM
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/110976
+#EXTINF:-1 tvg-name="TR: Radyo Tatlıses" group-title="TR MUZIK",TR: Radyo Tatlıses
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/110977
+#EXTINF:-1 tvg-name="TR: Radyo Seymen Canlı Dinle" group-title="TR MUZIK",TR: Radyo Seymen Canlı Dinle
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/110978
+#EXTINF:-1 tvg-name="TR: FASHION TV HD+" group-title="TR MUZIK",TR: FASHION TV HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/17169
+#EXTINF:-1 tvg-name="TR: MGC TV" group-title="TR MUZIK",TR: MGC TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/17168
+#EXTINF:-1 tvg-name="TR: MGC" group-title="TR MUZIK",TR: MGC
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/17237
+#EXTINF:-1 tvg-name="TR: ISTANBUL BTV " group-title="TR MUZIK",TR: ISTANBUL BTV 
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/116164
+#EXTINF:-1 tvg-name="TR: ISTANBUL GTV " group-title="TR MUZIK",TR: ISTANBUL GTV 
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/116165
+#EXTINF:-1 tvg-name="TR: TRACE URBAN HD+" group-title="TR MUZIK",TR: TRACE URBAN HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/66140

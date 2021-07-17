@@ -1,0 +1,133 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-name="#### TURK YEREL ####" group-title="TR YEREL",#### TURK YEREL ####
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/124
+#EXTINF:-1 tvg-name="TR: TV KAYSERI" group-title="TR YEREL",TR: TV KAYSERI
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/110442
+#EXTINF:-1 tvg-name="TR: Manisa TV" group-title="TR YEREL",TR: Manisa TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/107958
+#EXTINF:-1 tvg-name="TR: Sinop TV" group-title="TR YEREL",TR: Sinop TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/107951
+#EXTINF:-1 tvg-name="TR: ANADOLU DERNEK TV" group-title="TR YEREL",TR: ANADOLU DERNEK TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/17147
+#EXTINF:-1 tvg-name="TR: Yildiz EN TV " group-title="TR YEREL",TR: Yildiz EN TV 
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/67996
+#EXTINF:-1 tvg-name="TR: CEM TV HD" group-title="TR YEREL",TR: CEM TV HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/67997
+#EXTINF:-1 tvg-name="TR: GRT TV" tvg-logo="http://89.163.242.179:8080/images/5b0a0c14923ff8ebb7df12b3470f8806.png" group-title="TR YEREL",TR: GRT TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/4176
+#EXTINF:-1 tvg-name="TR: GAZIANTEP OLAY TV" tvg-logo="http://89.163.242.179:8080/images/5b0a0c14923ff8ebb7df12b3470f8806.png" group-title="TR YEREL",TR: GAZIANTEP OLAY TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/4175
+#EXTINF:-1 tvg-name="TR: ADANA TV" tvg-logo="http://89.163.242.179:8080/images/6e50876a0875e8c7c24c6085227b9504.png" group-title="TR YEREL",TR: ADANA TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/4177
+#EXTINF:-1 tvg-name="TR: HRT" group-title="TR YEREL",TR: HRT
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/60900
+#EXTINF:-1 tvg-name="TR: Sivas" group-title="TR YEREL",TR: Sivas
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/18572
+#EXTINF:-1 tvg-name="TR: Sivas VIZYON 58 TV" tvg-logo="http://89.163.242.179:8080/images/c0096711f74cda95c2652daf9f89ad6f.png" group-title="TR YEREL",TR: Sivas VIZYON 58 TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/4178
+#EXTINF:-1 tvg-name="TR: ADIYAMAN MERCAN TV" group-title="TR YEREL",TR: ADIYAMAN MERCAN TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/4956
+#EXTINF:-1 tvg-name="TR: ÇANAKKALE TON TV" tvg-logo="http://89.163.242.179:8080/images/e0726de89fb575f4ab6339559c9d3037.png" group-title="TR YEREL",TR: ÇANAKKALE TON TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/4955
+#EXTINF:-1 tvg-name="TR: Malatya ERTV" tvg-logo="http://89.163.242.179:8080/images/53e90d55a69ca3ff083c177ca68435eb.png" group-title="TR YEREL",TR: Malatya ERTV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/4957
+#EXTINF:-1 tvg-name="TR: TVDEN TV" group-title="TR YEREL",TR: TVDEN TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/5176
+#EXTINF:-1 tvg-name="TR: RUMELI TV" group-title="TR YEREL",TR: RUMELI TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111672
+#EXTINF:-1 tvg-name="TR: Aksaray Kanal 68" tvg-logo="http://89.163.242.179:8080/images/499e8f1894ee3cd1e861c234d04f4a2e.png" group-title="TR YEREL",TR: Aksaray Kanal 68
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/5020
+#EXTINF:-1 tvg-name="TR: ANKARA Türkiyem TV" tvg-logo="http://89.163.242.179:8080/images/51fa5efa5f1f472d74f788619d5a3bc6.png" group-title="TR YEREL",TR: ANKARA Türkiyem TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/4988
+#EXTINF:-1 tvg-name="TR: ANTALYA Kanal V" tvg-logo="http://89.163.242.179:8080/images/633c4bc94bec1917b7dd57c7b489a2ae.png" group-title="TR YEREL",TR: ANTALYA Kanal V
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/5015
+#EXTINF:-1 tvg-name="TR: Ada TV" group-title="TR YEREL",TR: Ada TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/5014
+#EXTINF:-1 tvg-name="TR: Yeni Kocaeli TV" group-title="TR YEREL",TR: Yeni Kocaeli TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/4968
+#EXTINF:-1 tvg-name="TR: KOZA TV" group-title="TR YEREL",TR: KOZA TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/5018
+#EXTINF:-1 tvg-name="TR: WM TV WOMAN KADIN" group-title="TR YEREL",TR: WM TV WOMAN KADIN
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/5019
+#EXTINF:-1 tvg-name="TR: ELAZIG Kanal 23" group-title="TR YEREL",TR: ELAZIG Kanal 23
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/5116
+#EXTINF:-1 tvg-name="TR: ELAZIG KANAL FIRAT" tvg-logo="http://89.163.242.179:8080/images/82a0b55d0ef3bb35955be954a5fb3a23.png" group-title="TR YEREL",TR: ELAZIG KANAL FIRAT
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/4986
+#EXTINF:-1 tvg-name="TR: KANAL T" group-title="TR YEREL",TR: KANAL T
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/4993
+#EXTINF:-1 tvg-name="TR: Tvo TV" tvg-logo="http://iptvtelekom.com/newpicon/tvo.png" group-title="TR YEREL",TR: Tvo TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/5115
+#EXTINF:-1 tvg-name="TR: Karadeniz BRTV" group-title="TR YEREL",TR: Karadeniz BRTV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/5017
+#EXTINF:-1 tvg-name="TR: 363 TV" group-title="TR YEREL",TR: 363 TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/5119
+#EXTINF:-1 tvg-name="TR: A VUSLAT TV" group-title="TR YEREL",TR: A VUSLAT TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/5118
+#EXTINF:-1 tvg-name="TR: DOST TV" group-title="TR YEREL",TR: DOST TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/5117
+#EXTINF:-1 tvg-name="TR: LINE TV" group-title="TR YEREL",TR: LINE TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/5016
+#EXTINF:-1 tvg-name="TR: Mavi Karadeniz" group-title="TR YEREL",TR: Mavi Karadeniz
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/4958
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR: Mesaj TV" group-title="TR YEREL",TR: Mesaj TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/5120
+#EXTINF:-1 tvg-name="TR: Trabzon Haber 61 TV HD" group-title="TR YEREL",TR: Trabzon Haber 61 TV HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/5114
+#EXTINF:-1 tvg-name="TR: EDESSA TV" group-title="TR YEREL",TR: EDESSA TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/5023
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR: Afyon Türk TV" group-title="TR YEREL",TR: Afyon Türk TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/5145
+#EXTINF:-1 tvg-name="TR: DORUK TV" group-title="TR YEREL",TR: DORUK TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/5149
+#EXTINF:-1 tvg-name="TR: VIZYON 58" group-title="TR YEREL",TR: VIZYON 58
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/5143
+#EXTINF:-1 tvg-name="TR: TON TV" group-title="TR YEREL",TR: TON TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/9201
+#EXTINF:-1 tvg-name="TR: EGE Turk TV" group-title="TR YEREL",TR: EGE Turk TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/5150
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR: Isviçre Vizyon TV" group-title="TR YEREL",TR: Isviçre Vizyon TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/12813
+#EXTINF:-1 tvg-name="TR: Er TV" group-title="TR YEREL",TR: Er TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/5141
+#EXTINF:-1 tvg-name="TR: IZMIR TV 35" tvg-logo="http://89.163.242.179:8080/images/0c4330e6b7b22e16172886dcc5b77e45.png" group-title="TR YEREL",TR: IZMIR TV 35
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/5146
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR: KONYA KON TV" group-title="TR YEREL",TR: KONYA KON TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/17175
+#EXTINF:-1 tvg-name="TR: AV TV" group-title="TR YEREL",TR: AV TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/5148
+#EXTINF:-1 tvg-name="TR: TV 41" group-title="TR YEREL",TR: TV 41
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/11121
+#EXTINF:-1 tvg-name="TR: KANAL 15" group-title="TR YEREL",TR: KANAL 15
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/5151
+#EXTINF:-1 tvg-name="TR: ON 4 " group-title="TR YEREL",TR: ON 4 
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/5154
+#EXTINF:-1 tvg-name="TR: Şanlıurfa Kanal URFA" group-title="TR YEREL",TR: Şanlıurfa Kanal URFA
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/11122
+#EXTINF:-1 tvg-name="TR: ASTV" group-title="TR YEREL",TR: ASTV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/5142
+#EXTINF:-1 tvg-name="TR: Kahramanmaraş AKSU TV" tvg-logo="http://89.163.242.179:8080/images/394e654ca65973f232653fb0008c603d.png" group-title="TR YEREL",TR: Kahramanmaraş AKSU TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/17148
+#EXTINF:-1 tvg-name="TR: Akit TV" group-title="TR YEREL",TR: Akit TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/17149
+#EXTINF:-1 tvg-name="TR: TV 52" group-title="TR YEREL",TR: TV 52
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/17145
+#EXTINF:-1 tvg-name="TR: GUNES TV" group-title="TR YEREL",TR: GUNES TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/17146
+#EXTINF:-1 tvg-name="TR: TV A" group-title="TR YEREL",TR: TV A
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/18570
+#EXTINF:-1 tvg-name="TR: Can TV" group-title="TR YEREL",TR: Can TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/37398
+#EXTINF:-1 tvg-name="TR: YASIN TV" group-title="TR YEREL",TR: YASIN TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/52832
+#EXTINF:-1 tvg-name="TR: YOL TV" group-title="TR YEREL",TR: YOL TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112513
+#EXTINF:-1 tvg-name="TR: BENGUTURK HD" group-title="TR YEREL",TR: BENGUTURK HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112983
+#EXTINF:-1 tvg-name="TR: BURSA LINE TV" group-title="TR YEREL",TR: BURSA LINE TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/116906
+#EXTINF:-1 tvg-name="TR: BURSA AS TV" group-title="TR YEREL",TR: BURSA AS TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/116907
+#EXTINF:-1 tvg-name="TR: BURSA ILKE TV" group-title="TR YEREL",TR: BURSA ILKE TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/116908
+#EXTINF:-1 tvg-name="TR: Kanal 12" group-title="TR YEREL",TR: Kanal 12
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/117227

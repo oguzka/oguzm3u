@@ -1,0 +1,371 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR: BEiN BOX OFFİCE 1 HD" group-title="TR SINEMA",TR: BEiN BOX OFFİCE 1 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/313
+#EXTINF:-1 tvg-id="beinboxoffice2.tr" tvg-name="TR: BEiN BOX OFFİCE 2 HD" group-title="TR SINEMA",TR: BEiN BOX OFFİCE 2 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/314
+#EXTINF:-1 tvg-id="beinboxoffice3.tr" tvg-name="TR: BEiN BOX OFFİCE 3 HD" group-title="TR SINEMA",TR: BEiN BOX OFFİCE 3 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/315
+#EXTINF:-1 tvg-name="TR: Yesilcam Sinema" tvg-logo="https://www.rizedeyiz.com/Arsiv/Icerik/2011/07/12/Resim_1310480030.jpg" group-title="TR SINEMA",TR: Yesilcam Sinema
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/17181
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="TR: SINEMA AKSIYON HD" group-title="TR SINEMA",TR: SINEMA AKSIYON HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/335
+#EXTINF:-1 tvg-name="TR: Kemal Sunal TV" group-title="TR SINEMA",TR: Kemal Sunal TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/397
+#EXTINF:-1 tvg-name="TR:  MAX Aksiyon HD" group-title="TR SINEMA",TR:  MAX Aksiyon HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/10839
+#EXTINF:-1 tvg-name="TR: MAX Premier HD" group-title="TR SINEMA",TR: MAX Premier HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/10841
+#EXTINF:-1 tvg-name="TR: MAX Aksiyon 2 HD" group-title="TR SINEMA",TR: MAX Aksiyon 2 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/10840
+#EXTINF:-1 tvg-name="TR: MAX Vizyon HD" group-title="TR SINEMA",TR: MAX Vizyon HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/10845
+#EXTINF:-1 tvg-name="TR: MAX Vizyon 2 HD" group-title="TR SINEMA",TR: MAX Vizyon 2 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/10846
+#EXTINF:-1 tvg-name="TR: MAX Vizyon 3 HD" group-title="TR SINEMA",TR: MAX Vizyon 3 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/10847
+#EXTINF:-1 tvg-name="TR: MAX Vizyon 4 HD" group-title="TR SINEMA",TR: MAX Vizyon 4 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/10848
+#EXTINF:-1 tvg-name="TR: MAX TURK HD" group-title="TR SINEMA",TR: MAX TURK HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/10851
+#EXTINF:-1 tvg-name="TR: MAX GOLD HD" group-title="TR SINEMA",TR: MAX GOLD HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/10853
+#EXTINF:-1 tvg-name="TR: MAX PLUS HD" group-title="TR SINEMA",TR: MAX PLUS HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/10852
+#EXTINF:-1 tvg-name="TR: MAX 007 HD" group-title="TR SINEMA",TR: MAX 007 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/10849
+#EXTINF:-1 tvg-name="TR: MAX Hint Filimleri" group-title="TR SINEMA",TR: MAX Hint Filimleri
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/10844
+#EXTINF:-1 tvg-name="TR: MAX Orjinal HD" group-title="TR SINEMA",TR: MAX Orjinal HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/10842
+#EXTINF:-1 tvg-name="TR: MAX STAR WARS HD" group-title="TR SINEMA",TR: MAX STAR WARS HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/10850
+#EXTINF:-1 tvg-name="TR: MAX Western HD" group-title="TR SINEMA",TR: MAX Western HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/10843
+#EXTINF:-1 tvg-name="TR: HyperCinema Yesilcam HD" group-title="TR SINEMA",TR: HyperCinema Yesilcam HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/67829
+#EXTINF:-1 tvg-name="TR: HyperCinema Kemal Sunal HD" group-title="TR SINEMA",TR: HyperCinema Kemal Sunal HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/67830
+#EXTINF:-1 tvg-name="TR: HyperCinema Koleksiyon" group-title="TR SINEMA",TR: HyperCinema Koleksiyon
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/67831
+#EXTINF:-1 tvg-name="TR: HyperCinema Program Bilgisi" group-title="TR SINEMA",TR: HyperCinema Program Bilgisi
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/67832
+#EXTINF:-1 tvg-name="TR: HyperCinema 1 HD" group-title="TR SINEMA",TR: HyperCinema 1 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/67833
+#EXTINF:-1 tvg-name="TR: HyperCinema 5 HD" group-title="TR SINEMA",TR: HyperCinema 5 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/67834
+#EXTINF:-1 tvg-name="TR: HyperCinema 2 HD" group-title="TR SINEMA",TR: HyperCinema 2 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/67835
+#EXTINF:-1 tvg-name="TR: HyperCinema 6 HD" group-title="TR SINEMA",TR: HyperCinema 6 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/67836
+#EXTINF:-1 tvg-name="TR: HyperCinema 8 HD" group-title="TR SINEMA",TR: HyperCinema 8 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/67837
+#EXTINF:-1 tvg-name="TR: HyperCinema 9 HD" group-title="TR SINEMA",TR: HyperCinema 9 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/67838
+#EXTINF:-1 tvg-name="TR; HyperCinema 7 HD" group-title="TR SINEMA",TR; HyperCinema 7 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/67839
+#EXTINF:-1 tvg-name="TR: HyperCinema 3 HD" group-title="TR SINEMA",TR: HyperCinema 3 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/67840
+#EXTINF:-1 tvg-name="TR: HyperCinema 4 HD" group-title="TR SINEMA",TR: HyperCinema 4 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/67841
+#EXTINF:-1 tvg-name="TR: HyperCinema 10 HD" group-title="TR SINEMA",TR: HyperCinema 10 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/67842
+#EXTINF:-1 tvg-name="TR: REDBOX ACTIE 1 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR SINEMA",TR: REDBOX ACTIE 1 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/392
+#EXTINF:-1 tvg-name="TR: REDBOX HORROR 1 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR SINEMA",TR: REDBOX HORROR 1 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/394
+#EXTINF:-1 tvg-name="TR: REDBOX MIX 1 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR SINEMA",TR: REDBOX MIX 1 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/395
+#EXTINF:-1 tvg-name="TR: REDBOX BILIMKURGU 1 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR SINEMA",TR: REDBOX BILIMKURGU 1 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/393
+#EXTINF:-1 tvg-name="TR: REDBOX VIZYON 1 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR SINEMA",TR: REDBOX VIZYON 1 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/390
+#EXTINF:-1 tvg-name="TR: REDBOX VIZYON 2  HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR SINEMA",TR: REDBOX VIZYON 2  HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/396
+#EXTINF:-1 tvg-name="TR: REDBOX SINEMA TURK 1 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR SINEMA",TR: REDBOX SINEMA TURK 1 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/391
+#EXTINF:-1 tvg-name="TR: REDBOX SINEMA TURK  2 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR SINEMA",TR: REDBOX SINEMA TURK  2 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/399
+#EXTINF:-1 tvg-name="TR: REDBOX DRAMA HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR SINEMA",TR: REDBOX DRAMA HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/398
+#EXTINF:-1 tvg-name="TR: REDBOX PREMIERE" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR SINEMA",TR: REDBOX PREMIERE
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/386
+#EXTINF:-1 tvg-name="TR: FILMAX 4K" group-title="TR SINEMA",TR: FILMAX 4K
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/66916
+#EXTINF:-1 tvg-name="TR: FILMAX Action HD" group-title="TR SINEMA",TR: FILMAX Action HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/385
+#EXTINF:-1 tvg-name="TR: FILMAX Korku HD" group-title="TR SINEMA",TR: FILMAX Korku HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/383
+#EXTINF:-1 tvg-name="TR:  FILM AX COMEDY HD" group-title="TR SINEMA",TR:  FILM AX COMEDY HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/388
+#EXTINF:-1 tvg-name="TR:  FILM AX FANTASTIK HD" group-title="TR SINEMA",TR:  FILM AX FANTASTIK HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/382
+#EXTINF:-1 tvg-name="TR: FILM AX GOLD HD" group-title="TR SINEMA",TR: FILM AX GOLD HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/389
+#EXTINF:-1 tvg-name="TR:  FILM AX Türk HD" group-title="TR SINEMA",TR:  FILM AX Türk HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/387
+#EXTINF:-1 tvg-name="TR: FILMAX Kemal Sunal" group-title="TR SINEMA",TR: FILMAX Kemal Sunal
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/113521
+#EXTINF:-1 tvg-name="TR: FILMAX Yesilcam" group-title="TR SINEMA",TR: FILMAX Yesilcam
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/113522
+#EXTINF:-1 tvg-name="TR: Filmax Drama" group-title="TR SINEMA",TR: Filmax Drama
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/113523
+#EXTINF:-1 tvg-name="TR:  FILM AX Premier" group-title="TR SINEMA",TR:  FILM AX Premier
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/384
+#EXTINF:-1 tvg-name="TR: ENOFLIX 1" group-title="TR SINEMA",TR: ENOFLIX 1
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111955
+#EXTINF:-1 tvg-name="TR: ENOFLIX 2" group-title="TR SINEMA",TR: ENOFLIX 2
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111956
+#EXTINF:-1 tvg-name="TR: ENO NETFLIX 1" group-title="TR SINEMA",TR: ENO NETFLIX 1
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111957
+#EXTINF:-1 tvg-name="TR: ENO NETFLIX 2" group-title="TR SINEMA",TR: ENO NETFLIX 2
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111958
+#EXTINF:-1 tvg-name="TR: ENO NETFLIX 3" group-title="TR SINEMA",TR: ENO NETFLIX 3
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111959
+#EXTINF:-1 tvg-name="TR: ENO VIZYON 1" group-title="TR SINEMA",TR: ENO VIZYON 1
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111960
+#EXTINF:-1 tvg-name="TR: ENO VIZYON 2" group-title="TR SINEMA",TR: ENO VIZYON 2
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111961
+#EXTINF:-1 tvg-name="TR: ENO VIZYON 3" group-title="TR SINEMA",TR: ENO VIZYON 3
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111962
+#EXTINF:-1 tvg-name="TR: ENO VIZYON 4" group-title="TR SINEMA",TR: ENO VIZYON 4
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111963
+#EXTINF:-1 tvg-name="TR: ENO VIZYON 5" group-title="TR SINEMA",TR: ENO VIZYON 5
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111964
+#EXTINF:-1 tvg-name="TR: ENO VIZYON 6" group-title="TR SINEMA",TR: ENO VIZYON 6
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111965
+#EXTINF:-1 tvg-name="TR: ENO VIZYON 7" group-title="TR SINEMA",TR: ENO VIZYON 7
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111966
+#EXTINF:-1 tvg-name="TR: ENO VIZYON 8" group-title="TR SINEMA",TR: ENO VIZYON 8
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111967
+#EXTINF:-1 tvg-name="TR: ENO VIZYON 9" group-title="TR SINEMA",TR: ENO VIZYON 9
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111968
+#EXTINF:-1 tvg-name="TR: ENO VIZYON 10" group-title="TR SINEMA",TR: ENO VIZYON 10
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111969
+#EXTINF:-1 tvg-name="TR: ENO VIZYON 11" group-title="TR SINEMA",TR: ENO VIZYON 11
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111970
+#EXTINF:-1 tvg-name="TR: ENO VIZYON 12" group-title="TR SINEMA",TR: ENO VIZYON 12
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111971
+#EXTINF:-1 tvg-name="TR: ENO VIZYON 13" group-title="TR SINEMA",TR: ENO VIZYON 13
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111972
+#EXTINF:-1 tvg-name="TR: ENO VIZYON 14" group-title="TR SINEMA",TR: ENO VIZYON 14
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111973
+#EXTINF:-1 tvg-name="TR: ENO VIZYON 15" group-title="TR SINEMA",TR: ENO VIZYON 15
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111974
+#EXTINF:-1 tvg-name="TR: ENO VIZYON 16" group-title="TR SINEMA",TR: ENO VIZYON 16
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111975
+#EXTINF:-1 tvg-name="TR: ENO VIZYON 17" group-title="TR SINEMA",TR: ENO VIZYON 17
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111976
+#EXTINF:-1 tvg-name="TR: ENO VIZYON 18" group-title="TR SINEMA",TR: ENO VIZYON 18
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111977
+#EXTINF:-1 tvg-name="TR: ENO VIZYON 19" group-title="TR SINEMA",TR: ENO VIZYON 19
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111978
+#EXTINF:-1 tvg-name="TR: ENO VIZYON 20" group-title="TR SINEMA",TR: ENO VIZYON 20
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111979
+#EXTINF:-1 tvg-name="TR: ENO TURK 1" group-title="TR SINEMA",TR: ENO TURK 1
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111980
+#EXTINF:-1 tvg-name="TR: ENO TURK 2" group-title="TR SINEMA",TR: ENO TURK 2
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111981
+#EXTINF:-1 tvg-name="TR: ENO TURK 3" group-title="TR SINEMA",TR: ENO TURK 3
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111982
+#EXTINF:-1 tvg-name="TR: ENO TURK 4" group-title="TR SINEMA",TR: ENO TURK 4
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111983
+#EXTINF:-1 tvg-name="TR: ENO TURK 5" group-title="TR SINEMA",TR: ENO TURK 5
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111984
+#EXTINF:-1 tvg-name="TR: ENO AKSiYON 1" group-title="TR SINEMA",TR: ENO AKSiYON 1
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111985
+#EXTINF:-1 tvg-name="TR: ENO AKSiYON 2" group-title="TR SINEMA",TR: ENO AKSiYON 2
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111986
+#EXTINF:-1 tvg-name="TR: ENO AKSiYON 3" group-title="TR SINEMA",TR: ENO AKSiYON 3
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111987
+#EXTINF:-1 tvg-name="TR: ENO MACERA 1" group-title="TR SINEMA",TR: ENO MACERA 1
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111988
+#EXTINF:-1 tvg-name="TR: ENO MACERA 2" group-title="TR SINEMA",TR: ENO MACERA 2
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111989
+#EXTINF:-1 tvg-name="TR: ENO MACERA 3" group-title="TR SINEMA",TR: ENO MACERA 3
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111990
+#EXTINF:-1 tvg-name="TR: ENO AILE 1" group-title="TR SINEMA",TR: ENO AILE 1
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111991
+#EXTINF:-1 tvg-name="TR: ENO AILE 2" group-title="TR SINEMA",TR: ENO AILE 2
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111992
+#EXTINF:-1 tvg-name="TR: ENO WESTERN 1" group-title="TR SINEMA",TR: ENO WESTERN 1
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111993
+#EXTINF:-1 tvg-name="TR: ENO BILIM KURGU 1" group-title="TR SINEMA",TR: ENO BILIM KURGU 1
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111994
+#EXTINF:-1 tvg-name="TR: ENO BILIM KURGU 2" group-title="TR SINEMA",TR: ENO BILIM KURGU 2
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111995
+#EXTINF:-1 tvg-name="TR: ENO HINT 1" group-title="TR SINEMA",TR: ENO HINT 1
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111996
+#EXTINF:-1 tvg-name="TR: ENO HINT 2" group-title="TR SINEMA",TR: ENO HINT 2
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111997
+#EXTINF:-1 tvg-name="TR: ENO YESILCAM 1" group-title="TR SINEMA",TR: ENO YESILCAM 1
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111998
+#EXTINF:-1 tvg-name="TR: ENO YESILCAM 2" group-title="TR SINEMA",TR: ENO YESILCAM 2
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/111999
+#EXTINF:-1 tvg-name="TR: ENO YESILCAM 3" group-title="TR SINEMA",TR: ENO YESILCAM 3
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112000
+#EXTINF:-1 tvg-name="TR: VizyontV FILMMIX 1" group-title="TR SINEMA",TR: VizyontV FILMMIX 1
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112001
+#EXTINF:-1 tvg-name="TR: VizyontV FILMMIX 2" group-title="TR SINEMA",TR: VizyontV FILMMIX 2
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112002
+#EXTINF:-1 tvg-name="TR: VizyontV FILMMIX 3" group-title="TR SINEMA",TR: VizyontV FILMMIX 3
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112003
+#EXTINF:-1 tvg-name="TR: VizyontV FILMMIX 4" group-title="TR SINEMA",TR: VizyontV FILMMIX 4
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112004
+#EXTINF:-1 tvg-name="TR: VizyontV FILMMIX 5" group-title="TR SINEMA",TR: VizyontV FILMMIX 5
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112005
+#EXTINF:-1 tvg-name="TR: BOSS MOVIES 1" group-title="TR SINEMA",TR: BOSS MOVIES 1
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112006
+#EXTINF:-1 tvg-name="TR: BOSS MOVIES 2" group-title="TR SINEMA",TR: BOSS MOVIES 2
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112007
+#EXTINF:-1 tvg-name="TR: BOSS MOVIES 3" group-title="TR SINEMA",TR: BOSS MOVIES 3
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112008
+#EXTINF:-1 tvg-name="TR: BOSS MOVIES 4" group-title="TR SINEMA",TR: BOSS MOVIES 4
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112009
+#EXTINF:-1 tvg-name="TR: BOSS MOVIES 5" group-title="TR SINEMA",TR: BOSS MOVIES 5
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112010
+#EXTINF:-1 tvg-name="TR: BOSS MOVIES 6" group-title="TR SINEMA",TR: BOSS MOVIES 6
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112011
+#EXTINF:-1 tvg-name="TR: BOSS MOVIES 7" group-title="TR SINEMA",TR: BOSS MOVIES 7
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112012
+#EXTINF:-1 tvg-name="TR: BOSS MOVIES 8" group-title="TR SINEMA",TR: BOSS MOVIES 8
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112013
+#EXTINF:-1 tvg-name="TR: BOSS MOVIES 9" group-title="TR SINEMA",TR: BOSS MOVIES 9
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112014
+#EXTINF:-1 tvg-name="TR: BOSS MOVIES 10" group-title="TR SINEMA",TR: BOSS MOVIES 10
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112015
+#EXTINF:-1 tvg-name="TR: BOSS MOVIES 1 HD" group-title="TR SINEMA",TR: BOSS MOVIES 1 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/103225
+#EXTINF:-1 tvg-name="TR: BOSS MOVIES 2 HD" group-title="TR SINEMA",TR: BOSS MOVIES 2 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/103226
+#EXTINF:-1 tvg-name="TR: BOSS MOVIES 3 HD" group-title="TR SINEMA",TR: BOSS MOVIES 3 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/103227
+#EXTINF:-1 tvg-name="TR: BOSS MOVIES 4 HD" group-title="TR SINEMA",TR: BOSS MOVIES 4 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/103228
+#EXTINF:-1 tvg-name="TR: BOSS MOVIES 5 HD" group-title="TR SINEMA",TR: BOSS MOVIES 5 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/103229
+#EXTINF:-1 tvg-name="TR: SINEVIZYON 1" group-title="TR SINEMA",TR: SINEVIZYON 1
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112016
+#EXTINF:-1 tvg-name="TR: SINEVIZYON 2" group-title="TR SINEMA",TR: SINEVIZYON 2
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112017
+#EXTINF:-1 tvg-name="TR: SINEVIZYON 3" group-title="TR SINEMA",TR: SINEVIZYON 3
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112018
+#EXTINF:-1 tvg-name="TR: SINEVIZYON 4" group-title="TR SINEMA",TR: SINEVIZYON 4
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112019
+#EXTINF:-1 tvg-name="TR: SINEVIZYON 5" group-title="TR SINEMA",TR: SINEVIZYON 5
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112020
+#EXTINF:-1 tvg-name="TR: SINEVIZYON 6" group-title="TR SINEMA",TR: SINEVIZYON 6
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112021
+#EXTINF:-1 tvg-name="TR: SINEVIZYON 7" group-title="TR SINEMA",TR: SINEVIZYON 7
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112022
+#EXTINF:-1 tvg-name="TR: SINEVIZYON 8" group-title="TR SINEMA",TR: SINEVIZYON 8
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112023
+#EXTINF:-1 tvg-name="TR: SINEVIZYON 9" group-title="TR SINEMA",TR: SINEVIZYON 9
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112024
+#EXTINF:-1 tvg-name="TR: SINEVIZYON 10" group-title="TR SINEMA",TR: SINEVIZYON 10
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112025
+#EXTINF:-1 tvg-name="TR: SINEVIZYON 11" group-title="TR SINEMA",TR: SINEVIZYON 11
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112026
+#EXTINF:-1 tvg-name="TR: SINEVIZYON 12" group-title="TR SINEMA",TR: SINEVIZYON 12
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112027
+#EXTINF:-1 tvg-name="TR: SINEVIZYON 13" group-title="TR SINEMA",TR: SINEVIZYON 13
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112028
+#EXTINF:-1 tvg-name="TR: SINEVIZYON 14" group-title="TR SINEMA",TR: SINEVIZYON 14
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112029
+#EXTINF:-1 tvg-name="TR: SINEVIZYON 15" group-title="TR SINEMA",TR: SINEVIZYON 15
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112030
+#EXTINF:-1 tvg-name="TR: SINEVIZYON 16" group-title="TR SINEMA",TR: SINEVIZYON 16
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112031
+#EXTINF:-1 tvg-name="TR: SINEVIZYON 17" group-title="TR SINEMA",TR: SINEVIZYON 17
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112032
+#EXTINF:-1 tvg-name="TR: SINEVIZYON 18" group-title="TR SINEMA",TR: SINEVIZYON 18
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112033
+#EXTINF:-1 tvg-name="TR: SINEVIZYON 19" group-title="TR SINEMA",TR: SINEVIZYON 19
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112034
+#EXTINF:-1 tvg-name="TR: SINEVIZYON 20" group-title="TR SINEMA",TR: SINEVIZYON 20
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112035
+#EXTINF:-1 tvg-name="TR: SINEVIZYON TURK 1" group-title="TR SINEMA",TR: SINEVIZYON TURK 1
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112036
+#EXTINF:-1 tvg-name="TR: SINEVIZYON TURK 2" group-title="TR SINEMA",TR: SINEVIZYON TURK 2
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112037
+#EXTINF:-1 tvg-name="TR: SINEVIZYON TURK 3" group-title="TR SINEMA",TR: SINEVIZYON TURK 3
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112038
+#EXTINF:-1 tvg-name="TR: SINEVIZYON TURK 4" group-title="TR SINEMA",TR: SINEVIZYON TURK 4
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112039
+#EXTINF:-1 tvg-name="TR: SINEVIZYON TURK 5" group-title="TR SINEMA",TR: SINEVIZYON TURK 5
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112040
+#EXTINF:-1 tvg-name="TR: SINEVIZYON TURK 6" group-title="TR SINEMA",TR: SINEVIZYON TURK 6
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112041
+#EXTINF:-1 tvg-name="TR: SINEVIZYON TURK 7" group-title="TR SINEMA",TR: SINEVIZYON TURK 7
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112042
+#EXTINF:-1 tvg-name="TR: SINEVIZYON TURK 8" group-title="TR SINEMA",TR: SINEVIZYON TURK 8
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112043
+#EXTINF:-1 tvg-name="TR: SINEVIZYON TURK 9" group-title="TR SINEMA",TR: SINEVIZYON TURK 9
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112044
+#EXTINF:-1 tvg-name="TR: SINEVIZYON TURK 10" group-title="TR SINEMA",TR: SINEVIZYON TURK 10
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112045
+#EXTINF:-1 tvg-name="TR: SINEVIZYON NOSTALJI 1" group-title="TR SINEMA",TR: SINEVIZYON NOSTALJI 1
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112046
+#EXTINF:-1 tvg-name="TR: SINEVIZYON NOSTALJI 2" group-title="TR SINEMA",TR: SINEVIZYON NOSTALJI 2
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112047
+#EXTINF:-1 tvg-name="TR: BOX OFFICE 1" group-title="TR SINEMA",TR: BOX OFFICE 1
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112048
+#EXTINF:-1 tvg-name="TR: BOX OFFICE 2" group-title="TR SINEMA",TR: BOX OFFICE 2
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112049
+#EXTINF:-1 tvg-name="TR: BOX OFFICE 3" group-title="TR SINEMA",TR: BOX OFFICE 3
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112050
+#EXTINF:-1 tvg-name="TR: ENO KURTLAR VADISI" group-title="TR SINEMA",TR: ENO KURTLAR VADISI
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112051
+#EXTINF:-1 tvg-name="TR: MULTIVIZYON 1" group-title="TR SINEMA",TR: MULTIVIZYON 1
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112052
+#EXTINF:-1 tvg-name="TR: MULTIVIZYON 2" group-title="TR SINEMA",TR: MULTIVIZYON 2
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112053
+#EXTINF:-1 tvg-name="TR: MULTIVIZYON 3" group-title="TR SINEMA",TR: MULTIVIZYON 3
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112054
+#EXTINF:-1 tvg-name="TR: MULTIVIZYON 4" group-title="TR SINEMA",TR: MULTIVIZYON 4
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112055
+#EXTINF:-1 tvg-name="TR: MULTIVIZYON 5" group-title="TR SINEMA",TR: MULTIVIZYON 5
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112056
+#EXTINF:-1 tvg-name="TR: MULTIVIZYON 6" group-title="TR SINEMA",TR: MULTIVIZYON 6
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112057
+#EXTINF:-1 tvg-name="TR: MULTIVIZYON 7" group-title="TR SINEMA",TR: MULTIVIZYON 7
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112058
+#EXTINF:-1 tvg-name="TR: MULTIVIZYON 8" group-title="TR SINEMA",TR: MULTIVIZYON 8
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112059
+#EXTINF:-1 tvg-name="TR: MULTIVIZYON 9" group-title="TR SINEMA",TR: MULTIVIZYON 9
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112060
+#EXTINF:-1 tvg-name="TR: MULTIVIZYON 10" group-title="TR SINEMA",TR: MULTIVIZYON 10
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112061
+#EXTINF:-1 tvg-name="TR: MULTIVIZYON 11" group-title="TR SINEMA",TR: MULTIVIZYON 11
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112062
+#EXTINF:-1 tvg-name="TR: MULTIVIZYON 12" group-title="TR SINEMA",TR: MULTIVIZYON 12
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112063
+#EXTINF:-1 tvg-name="TR: MULTIVIZYON 13" group-title="TR SINEMA",TR: MULTIVIZYON 13
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112064
+#EXTINF:-1 tvg-name="TR: MULTIVIZYON 14" group-title="TR SINEMA",TR: MULTIVIZYON 14
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112065
+#EXTINF:-1 tvg-name="TR: MULTIVIZYON 15" group-title="TR SINEMA",TR: MULTIVIZYON 15
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112066
+#EXTINF:-1 tvg-name="TR: MULTIVIZYON 16" group-title="TR SINEMA",TR: MULTIVIZYON 16
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112067
+#EXTINF:-1 tvg-name="TR: MULTIVIZYON 17" group-title="TR SINEMA",TR: MULTIVIZYON 17
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112068
+#EXTINF:-1 tvg-name="TR: MULTIVIZYON 18" group-title="TR SINEMA",TR: MULTIVIZYON 18
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112069
+#EXTINF:-1 tvg-name="TR: MULTIVIZYON 19" group-title="TR SINEMA",TR: MULTIVIZYON 19
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112070
+#EXTINF:-1 tvg-name="TR: MULTIVIZYON 20" group-title="TR SINEMA",TR: MULTIVIZYON 20
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112071
+#EXTINF:-1 tvg-name="TR: ENO KADiR iNANIR TV" group-title="TR SINEMA",TR: ENO KADiR iNANIR TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112072
+#EXTINF:-1 tvg-name="TR: ENO KADiR iNANIR TV 2" group-title="TR SINEMA",TR: ENO KADiR iNANIR TV 2
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112073
+#EXTINF:-1 tvg-name="TR: ENO ZEKi METiN TV" group-title="TR SINEMA",TR: ENO ZEKi METiN TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/112074
+#EXTINF:-1 tvg-name="TR: BOSS YESILCAM" group-title="TR SINEMA",TR: BOSS YESILCAM
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/103230
+#EXTINF:-1 tvg-name="TR: NETFLIX SALON 4 " group-title="TR SINEMA",TR: NETFLIX SALON 4 
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/103231
+#EXTINF:-1 tvg-name="TR: NETFLIX SALON 3 " group-title="TR SINEMA",TR: NETFLIX SALON 3 
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/103232
+#EXTINF:-1 tvg-name="TR: Yesilcam Sinema HD" tvg-logo="https://www.rizedeyiz.com/Arsiv/Icerik/2011/07/12/Resim_1310480030.jpg" group-title="TR SINEMA",TR: Yesilcam Sinema HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/37975

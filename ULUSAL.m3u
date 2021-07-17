@@ -1,0 +1,105 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-name="#### ULUSAL KANALLAR ####" group-title="TR ULUSAL",#### ULUSAL KANALLAR ####
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/118
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-1-tr.png" group-title="TR ULUSAL",TR: TRT 1 HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/229
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-1-tr.png" group-title="TR ULUSAL",TR: TRT 1 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/214
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 4K UHD 2160p" tvg-logo="http://iptvtelekom.com/newpicon/trt4k.png" group-title="TR ULUSAL",TR: TRT 4K UHD 2160p
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/245
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 4K" tvg-logo="http://iptvtelekom.com/newpicon/trt4k.png" group-title="TR ULUSAL",TR: TRT 4K
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/244
+#EXTINF:-1 tvg-id="trt2.tr" tvg-name="TR: TRT 2 HD" tvg-logo="http://iptvtelekom.com/newpicon/trt2.png" group-title="TR ULUSAL",TR: TRT 2 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/215
+#EXTINF:-1 tvg-id="trtavaz.tr" tvg-name="TR: TRT AVAZ HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_avaz_tr.png" group-title="TR ULUSAL",TR: TRT AVAZ HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/110475
+#EXTINF:-1 tvg-id="trtturk.tr" tvg-name="TR: TRT TURK HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_turk_tr.png" group-title="TR ULUSAL",TR: TRT TURK HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/110478
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV HD+" tvg-logo="http://iptvtelekom.com/newpicon/atvhd.png" group-title="TR ULUSAL",TR: ATV HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/231
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png" group-title="TR ULUSAL",TR: ATV HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/217
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR TV HD+" tvg-logo="http://iptvtelekom.com/newpicon/startv.png" group-title="TR ULUSAL",TR: STAR TV HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/232
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" group-title="TR ULUSAL",TR: STAR TV HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/224
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV HD+" tvg-logo="http://iptvtelekom.com/newpicon/showtv.png" group-title="TR ULUSAL",TR: SHOW TV HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/233
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV HD" tvg-logo="http://iptvtelekom.com/newpicon/showtv.png" group-title="TR ULUSAL",TR: SHOW TV HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/223
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D HD+" tvg-logo="http://iptvtelekom.com/newpicon/kanald.png" group-title="TR ULUSAL",TR: KANAL D HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/230
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D HD" tvg-logo="http://iptvtelekom.com/newpicon/kanald.png" group-title="TR ULUSAL",TR: KANAL D HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/225
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR: FOX TV HD+" tvg-logo="http://iptvtelekom.com/newpicon/foxtv.png" group-title="TR ULUSAL",TR: FOX TV HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/234
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR: FOX TV HD" tvg-logo="http://iptvtelekom.com/newpicon/foxtv.png" group-title="TR ULUSAL",TR: FOX TV HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/218
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV 8 HD+" tvg-logo="http://iptvtelekom.com/newpicon/tv8.png" group-title="TR ULUSAL",TR: TV 8 HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/251
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV 8 HD" tvg-logo="http://iptvtelekom.com/newpicon/tv8.png" group-title="TR ULUSAL",TR: TV 8 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/221
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR: TV 8.5 HD+" tvg-logo="http://iptvtelekom.com/newpicon/tv8.5.png" group-title="TR ULUSAL",TR: TV 8.5 HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/236
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR: TV 8.5 HD" tvg-logo="http://iptvtelekom.com/newpicon/tv8.5.png" group-title="TR ULUSAL",TR: TV 8.5 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/222
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR: TV 8.5" tvg-logo="http://iptvtelekom.com/newpicon/tv8.5.png" group-title="TR ULUSAL",TR: TV 8.5
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/212
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR: A2 HD+" tvg-logo="http://iptvtelekom.com/newpicon/a2hd.png" group-title="TR ULUSAL",TR: A2 HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/227
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR: A2 HD" tvg-logo="http://iptvtelekom.com/newpicon/a2hd.png" group-title="TR ULUSAL",TR: A2 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/216
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR: BEYAZ TV HD+" tvg-logo="http://iptvtelekom.com/newpicon/beyaztv.png" group-title="TR ULUSAL",TR: BEYAZ TV HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/237
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR: BEYAZ TV HD" tvg-logo="http://iptvtelekom.com/newpicon/beyaztv.png" group-title="TR ULUSAL",TR: BEYAZ TV HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/219
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 HD+" tvg-logo="http://iptvtelekom.com/newpicon/tv7hd.png" group-title="TR ULUSAL",TR: KANAL 7 HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/238
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 AVRUPA HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal7_avrupa.png" group-title="TR ULUSAL",TR: KANAL 7 AVRUPA HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/70887
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 HD" tvg-logo="http://iptvtelekom.com/newpicon/tv7hd.png" group-title="TR ULUSAL",TR: KANAL 7 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/220
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR: TEVE 2 HD+" tvg-logo="http://iptvtelekom.com/newpicon/teve2.png" group-title="TR ULUSAL",TR: TEVE 2 HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/257
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TEVE 2 HD" tvg-logo="http://iptvtelekom.com/newpicon/teve2.png" group-title="TR ULUSAL",TR: TEVE 2 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/226
+#EXTINF:-1 tvg-name="TR: ARTI TV HD" group-title="TR ULUSAL",TR: ARTI TV HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/110476
+#EXTINF:-1 tvg-name="TR: TGRT EU HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tgrt_eu.png" group-title="TR ULUSAL",TR: TGRT EU HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/110477
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV AVRUPA" tvg-logo="http://iptvtelekom.com/newpicon/atvavrupa.png" group-title="TR ULUSAL",TR: ATV AVRUPA
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/240
+#EXTINF:-1 tvg-id="showmax.tr" tvg-name="TR: SHOW MAX HD+" tvg-logo="http://iptvtelekom.com/newpicon/showmax.png" group-title="TR ULUSAL",TR: SHOW MAX HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/239
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: EURO STAR" tvg-logo="http://iptvtelekom.com/newpicon/eurostar.png" group-title="TR ULUSAL",TR: EURO STAR
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/241
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TURK" tvg-logo="http://iptvtelekom.com/newpicon/showturk.png" group-title="TR ULUSAL",TR: SHOW TURK
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/243
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: EURO D" tvg-logo="http://iptvtelekom.com/newpicon/eurod.png" group-title="TR ULUSAL",TR: EURO D
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/213
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV 8 INT" tvg-logo="http://iptvtelekom.com/newpicon/tv8int.png" group-title="TR ULUSAL",TR: TV 8 INT
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/242
+#EXTINF:-1 tvg-name="TR: Vatan TV" tvg-logo="http://iptvtelekom.com/newpicon/vatan.png" group-title="TR ULUSAL",TR: Vatan TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/5147
+#EXTINF:-1 tvg-id="trtebatvilkokul.tr" tvg-name="TR: TRT EBATV İLKOKUL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eba-tv-ilkokul-tr.png" group-title="TR ULUSAL",TR: TRT EBATV İLKOKUL
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/53899
+#EXTINF:-1 tvg-id="trtebatvortaokul.tr" tvg-name="TR: TRT EBATV ORTAOKUL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eba-tv-ortaokul-tr.png" group-title="TR ULUSAL",TR: TRT EBATV ORTAOKUL
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/53900
+#EXTINF:-1 tvg-name="TR: TRT EBATV LİSE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eba-tv-ortaokul-tr.png" group-title="TR ULUSAL",TR: TRT EBATV LİSE
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/53901
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: 360 HD+" tvg-logo="http://iptvtelekom.com/newpicon/360hd.png" group-title="TR ULUSAL",TR: 360 HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/254
+#EXTINF:-1 tvg-name="TR: TV NET HD" tvg-logo="http://iptvtelekom.com/newpicon/tvnet.png" group-title="TR ULUSAL",TR: TV NET HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/256
+#EXTINF:-1 tvg-name="TR: TV 4 HD+" tvg-logo="http://iptvtelekom.com/newpicon/tv4.png" group-title="TR ULUSAL",TR: TV 4 HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/258
+#EXTINF:-1 tvg-name="TR: TVO" tvg-logo="http://iptvtelekom.com/newpicon/tvo.png" group-title="TR ULUSAL",TR: TVO
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/17150
+#EXTINF:-1 tvg-name="TR: AKILLI TV" tvg-logo="http://iptvtelekom.com/newpicon/akilli.png" group-title="TR ULUSAL",TR: AKILLI TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/5372
+#EXTINF:-1 tvg-name="TR: BİZİMEV TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bizimev-tv-tr.png" group-title="TR ULUSAL",TR: BİZİMEV TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/70131
+#EXTINF:-1 tvg-name="TR: Ucankus TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ucankus-tv-tr.png" group-title="TR ULUSAL",TR: Ucankus TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114418
+#EXTINF:-1 tvg-name="Test" group-title="TR ULUSAL",Test
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/118964
