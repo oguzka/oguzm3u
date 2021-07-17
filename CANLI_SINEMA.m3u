@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="TR: beIN MOVIES FAMILY HD+" group-title="TR CANLI SINEMA",TR: beIN MOVIES FAMILY HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/106621
+#EXTINF:-1 tvg-name="TR: beIN MOVIES ACTION HD+" group-title="TR CANLI SINEMA",TR: beIN MOVIES ACTION HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/106622
+#EXTINF:-1 tvg-id="beinmoviesaction2.tr" tvg-name="TR: beIN MOVIES ACTION 2 HD+" group-title="TR CANLI SINEMA",TR: beIN MOVIES ACTION 2 HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/318
+#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR: bEIN MOVIES PREMIER HD+" group-title="TR CANLI SINEMA",TR: bEIN MOVIES PREMIER HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/312
+#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="TR: beIN MOVIES PREMIERE 2 HD+" group-title="TR CANLI SINEMA",TR: beIN MOVIES PREMIERE 2 HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/317
+#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="TR: beIN MOVIES STARS HD+" group-title="TR CANLI SINEMA",TR: beIN MOVIES STARS HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/319
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="TR: beIN MOVIES TURK HD+" group-title="TR CANLI SINEMA",TR: beIN MOVIES TURK HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/316
+#EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-name="TR: bEIN SERIES COMEDY HD+" group-title="TR CANLI SINEMA",TR: bEIN SERIES COMEDY HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/309
+#EXTINF:-1 tvg-id="beinseriesdrama.tr" tvg-name="TR: bEIN SERIES DRAMA HD+" group-title="TR CANLI SINEMA",TR: bEIN SERIES DRAMA HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/307
+#EXTINF:-1 tvg-id="beinseriesscifi.tr" tvg-name="TR: bEIN SERIES SCFI HD+" group-title="TR CANLI SINEMA",TR: bEIN SERIES SCFI HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/308
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: beIN SERIES 1001 HD+" group-title="TR CANLI SINEMA",TR: beIN SERIES 1001 HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/320
+#EXTINF:-1 tvg-id="beinseriesvice.tr" tvg-name="TR: bEIN SERIES VICE HD+" group-title="TR CANLI SINEMA",TR: bEIN SERIES VICE HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/306
+#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-name="TR: MOVİESMART CLASSİC HD+" tvg-logo="https://dsmart-internet.com/i/dsmart/75/0x0/5a2e214c402eb771a4959299.jpg" group-title="TR CANLI SINEMA",TR: MOVİESMART CLASSİC HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/350
+#EXTINF:-1 tvg-id="smartcocuk.tr" tvg-name="TR: MOVIESMART COCUK HD+" group-title="TR CANLI SINEMA",TR: MOVIESMART COCUK HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/370
+#EXTINF:-1 tvg-id="moviesmartpremium2.tr" tvg-name="TR: MOVİESMART PREMİUM 2 HD+" tvg-logo="https://dsmart-internet.com/i/dsmart/75/0x0/5a2e2177402eb771a49592a5.jpg" group-title="TR CANLI SINEMA",TR: MOVİESMART PREMİUM 2 HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/342
+#EXTINF:-1 tvg-id="moviesmartpremium.tr" tvg-name="TR: MOVİESMART PREMİUM HD+" tvg-logo="https://dsmart-internet.com/i/dsmart/75/0x0/5a2e2177402eb771a49592a5.jpg" group-title="TR CANLI SINEMA",TR: MOVİESMART PREMİUM HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/341
+#EXTINF:-1 tvg-id="moviesmartturk.tr" tvg-name="TR: MOVİESMART TURK HD+" tvg-logo="https://dsmart-internet.com/i/dsmart/75/0x0/5a2e2180402eb771a49592a8.jpg" group-title="TR CANLI SINEMA",TR: MOVİESMART TURK HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/349
+#EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="TR: SINEMA TV 1001 HD+" group-title="TR CANLI SINEMA",TR: SINEMA TV 1001 HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/368
+#EXTINF:-1 tvg-id="sinema1002.tr" tvg-name="TR: SINEMA TV 1002 HD+" group-title="TR CANLI SINEMA",TR: SINEMA TV 1002 HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/369
+#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="TR: SINEMA TV 2 HD+" group-title="TR CANLI SINEMA",TR: SINEMA TV 2 HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/359
+#EXTINF:-1 tvg-id="sinemaaksiyon2hd.tr" tvg-name="TR: SINEMA TV ACTION 2 HD+" group-title="TR CANLI SINEMA",TR: SINEMA TV ACTION 2 HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/361
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="TR: SINEMA TV ACTION HD+" group-title="TR CANLI SINEMA",TR: SINEMA TV ACTION HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/360
+#EXTINF:-1 tvg-id="sinemaailehd.tr" tvg-name="TR: SINEMA TV AILE HD+" group-title="TR CANLI SINEMA",TR: SINEMA TV AILE HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/362
+#EXTINF:-1 tvg-name="TR: SINEMA TV AILE 2 HD+" group-title="TR CANLI SINEMA",TR: SINEMA TV AILE 2 HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/363
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="TR: SINEMA TV HD+" group-title="TR CANLI SINEMA",TR: SINEMA TV HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/358
+#EXTINF:-1 tvg-id="sinemakomedihd.tr" tvg-name="TR: SINEMA TV KOMEDI HD+" group-title="TR CANLI SINEMA",TR: SINEMA TV KOMEDI HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/364
+#EXTINF:-1 tvg-id="sinemakomedi2hd.tr" tvg-name="TR: SINEMA TV KOMEDI 2 HD+" group-title="TR CANLI SINEMA",TR: SINEMA TV KOMEDI 2 HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/365
+#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-name="TR: SINEMA TV YERLI  HD+" group-title="TR CANLI SINEMA",TR: SINEMA TV YERLI  HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/366
+#EXTINF:-1 tvg-id="sinemayerli2.tr" tvg-name="TR: SINEMA TV YERLI 2 HD+" group-title="TR CANLI SINEMA",TR: SINEMA TV YERLI 2 HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/367
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="TR: DİZİ SMART PREMIUM HD+" tvg-logo="http://89.163.242.179:8080/images/526e3099f117db014fcc983920f487aa.png" group-title="TR CANLI SINEMA",TR: DİZİ SMART PREMIUM HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/351
+#EXTINF:-1 tvg-id="dizismartmax.tr" tvg-name="TR: DIZI SMART MAX HD" tvg-logo="http://89.163.242.179:8080/images/3f38705c311446c0d92f932f19db5500.png" group-title="TR CANLI SINEMA",TR: DIZI SMART MAX HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/332
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="TR: DIZI SMART PREMIUM HD" tvg-logo="http://89.163.242.179:8080/images/526e3099f117db014fcc983920f487aa.png" group-title="TR CANLI SINEMA",TR: DIZI SMART PREMIUM HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/331
+#EXTINF:-1 tvg-id="dizismartmax.tr" tvg-name="TR: DIZI SMART MAX HD+" tvg-logo="http://89.163.242.179:8080/images/3f38705c311446c0d92f932f19db5500.png" group-title="TR CANLI SINEMA",TR: DIZI SMART MAX HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/352
+#EXTINF:-1 tvg-id="filmbox.tr" tvg-name="TR: FILMBOX HD+" group-title="TR CANLI SINEMA",TR: FILMBOX HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/357
+#EXTINF:-1 tvg-id="foxcrime.tr" tvg-name="TR: FOX CRIME HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/97/Foxcrimehd.png" group-title="TR CANLI SINEMA",TR: FOX CRIME HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/356
+#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="TR: FX HD+" group-title="TR CANLI SINEMA",TR: FX HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/354
