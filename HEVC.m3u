@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 Hevc" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-1-tr.png" group-title="TR HEVC",TR: TRT 1 Hevc
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/70058
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV Hevc" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png" group-title="TR HEVC",TR: ATV Hevc
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/70059
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV Hevc" tvg-logo="http://iptvtelekom.com/newpicon/showtv.png" group-title="TR HEVC",TR: SHOW TV Hevc
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/70060
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D Hevc" tvg-logo="http://iptvtelekom.com/newpicon/kanald.png" group-title="TR HEVC",TR: KANAL D Hevc
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/70061
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR TV Hevc" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" group-title="TR HEVC",TR: STAR TV Hevc
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/70062
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR: FOX TV Hevc" tvg-logo="http://iptvtelekom.com/newpicon/foxtv.png" group-title="TR HEVC",TR: FOX TV Hevc
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/70063
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV8 Hevc" tvg-logo="http://iptvtelekom.com/newpicon/tv8.png" group-title="TR HEVC",TR: TV8 Hevc
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/70064
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR: TV 8.5 Hevc" tvg-logo="http://iptvtelekom.com/newpicon/tv8.5.png" group-title="TR HEVC",TR: TV 8.5 Hevc
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/70065
+#EXTINF:-1 tvg-name="TR: BEYAZ TV HEVC" tvg-logo="http://iptvtelekom.com/newpicon/beyaztv.png" group-title="TR HEVC",TR: BEYAZ TV HEVC
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/97880
+#EXTINF:-1 tvg-name="TR: KANAL 7 HEVC" tvg-logo="http://iptvtelekom.com/newpicon/tv7hd.png" group-title="TR HEVC",TR: KANAL 7 HEVC
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/97881
+#EXTINF:-1 tvg-name="TR: TEVE 2 HEVC" tvg-logo="http://iptvtelekom.com/newpicon/teve2.png" group-title="TR HEVC",TR: TEVE 2 HEVC
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/97882
+#EXTINF:-1 tvg-name="TR: A2 HEVC" tvg-logo="http://iptvtelekom.com/newpicon/a2hd.png" group-title="TR HEVC",TR: A2 HEVC
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/97883
+#EXTINF:-1 tvg-name="TR: TV 100 HEVC" tvg-logo="http://iptvtelekom.com/newpicon/tv100.png" group-title="TR HEVC",TR: TV 100 HEVC
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/97884
+#EXTINF:-1 tvg-name="TR: Kanal 360 HEVC" tvg-logo="http://iptvtelekom.com/newpicon/360hd.png" group-title="TR HEVC",TR: Kanal 360 HEVC
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/97885
+#EXTINF:-1 tvg-name="TRT TURK HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_turk_tr.png" group-title="TR HEVC",TRT TURK HEVC
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/97886
+#EXTINF:-1 tvg-name="TR: TRT WORLD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_world_tr.png" group-title="TR HEVC",TR: TRT WORLD HEVC
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/97887
+#EXTINF:-1 tvg-name="TR: A HABER HEVC" tvg-logo="http://iptvtelekom.com/newpicon/ahaber.png" group-title="TR HEVC",TR: A HABER HEVC
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/97888
+#EXTINF:-1 tvg-name="TR: CNN TÜRK HEVC" tvg-logo="http://iptvtelekom.com/newpicon/cnnturk.png" group-title="TR HEVC",TR: CNN TÜRK HEVC
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/97889
+#EXTINF:-1 tvg-name="TRT HABER HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-haber-tr.png" group-title="TR HEVC",TRT HABER HEVC
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/97890
+#EXTINF:-1 tvg-name="TR: BLOOMBERG HT HEVC" tvg-logo="http://iptvtelekom.com/newpicon/bloomberg.png" group-title="TR HEVC",TR: BLOOMBERG HT HEVC
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/97891
+#EXTINF:-1 tvg-name="TR: HABER TURK HEVC" tvg-logo="http://iptvtelekom.com/newpicon/haberturk.png" group-title="TR HEVC",TR: HABER TURK HEVC
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/97892
+#EXTINF:-1 tvg-name="TR: NTV HABER HEVC" tvg-logo="http://iptvtelekom.com/newpicon/ntv.png" group-title="TR HEVC",TR: NTV HABER HEVC
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/97893
+#EXTINF:-1 tvg-name="TGRT HABER HEVC" tvg-logo="http://iptvtelekom.com/newpicon/tgrthaber.png" group-title="TR HEVC",TGRT HABER HEVC
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/97894
+#EXTINF:-1 tvg-name="TR: A SPOR HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png" group-title="TR HEVC",TR: A SPOR HEVC
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/97895
+#EXTINF:-1 tvg-name="TR: TRT SPOR HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_spor_tr.png" group-title="TR HEVC",TR: TRT SPOR HEVC
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/97896
+#EXTINF:-1 tvg-name="TR: TRT SPOR YILDIZ HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/1920px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" group-title="TR HEVC",TR: TRT SPOR YILDIZ HEVC
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/97897
+#EXTINF:-1 tvg-name="SPOR SMART HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Smart-spor_635084424044881793.png" group-title="TR HEVC",SPOR SMART HEVC
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/97898
+#EXTINF:-1 tvg-name="TR: FOX CRIME HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/97/Foxcrimehd.png" group-title="TR HEVC",TR: FOX CRIME HEVC
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/97899
+#EXTINF:-1 tvg-name="TR: DMAX HEVC" tvg-logo="https://static.epg.best/it/DMAX.it.png" group-title="TR HEVC",TR: DMAX HEVC
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/97921
+#EXTINF:-1 tvg-name="TR: VIASAT HISTORY HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png" group-title="TR HEVC",TR: VIASAT HISTORY HEVC
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/97922
+#EXTINF:-1 tvg-name="TR: TRT BELGESEL HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-belgesel-tr.png" group-title="TR HEVC",TR: TRT BELGESEL HEVC
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/97923
