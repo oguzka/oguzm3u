@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="#### TURK BELGESEL ####" group-title="TR BELGESEL",#### TURK BELGESEL ####
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/121
+#EXTINF:-1 tvg-name="TR: TLC TV HD+" group-title="TR BELGESEL",TR: TLC TV HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/110605
+#EXTINF:-1 tvg-id="tlc.tr" tvg-name="TR: TLC TV" group-title="TR BELGESEL",TR: TLC TV
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/4174
+#EXTINF:-1 tvg-id="animalplanet.tr" tvg-name="TR: Animal Planet HD" group-title="TR BELGESEL",TR: Animal Planet HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/498
+#EXTINF:-1 tvg-name="TR: 24 KiTCHEN HD+" group-title="TR BELGESEL",TR: 24 KiTCHEN HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/110607
+#EXTINF:-1 tvg-id="24kitchen.tr" tvg-name="TR: 24 KiTCHEN HD" tvg-logo="http://89.163.242.179:8080/images/13b2b315d9978cc3816d1fb845076b62.png" group-title="TR BELGESEL",TR: 24 KiTCHEN HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/495
+#EXTINF:-1 tvg-name="TR: BBC Earth HD+" tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png" group-title="TR BELGESEL",TR: BBC Earth HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/110608
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-name="TR: BBC Earth HD" tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png" group-title="TR BELGESEL",TR: BBC Earth HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/491
+#EXTINF:-1 tvg-id="beingurme.tr" tvg-name="TR: BEIN GURME HD" group-title="TR BELGESEL",TR: BEIN GURME HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/493
+#EXTINF:-1 tvg-id="beiniz.tr" tvg-name="TR: beIN IZ" group-title="TR BELGESEL",TR: beIN IZ
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/18563
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="TR: DISCOVERY CHANNEL HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png" group-title="TR BELGESEL",TR: DISCOVERY CHANNEL HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/488
+#EXTINF:-1 tvg-name="TR: DISCOVERY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png" group-title="TR BELGESEL",TR: DISCOVERY CHANNEL HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/110611
+#EXTINF:-1 tvg-name="TR: DISCOVERY SCIENCE HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" group-title="TR BELGESEL",TR: DISCOVERY SCIENCE HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/489
+#EXTINF:-1 tvg-name="TR: DISCOVERY SCIENCE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" group-title="TR BELGESEL",TR: DISCOVERY SCIENCE HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/110612
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/ID_Canada_Logo.png" group-title="TR BELGESEL",TR: DISCOVERY ID
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/490
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="TR: DISCOVERY IDX HD" tvg-logo="https://e7.pngegg.com/pngimages/754/466/png-clipart-investigation-discovery-television-channel-id-xtra-discovery-channel-others-miscellaneous-television.png" group-title="TR BELGESEL",TR: DISCOVERY IDX HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/496
+#EXTINF:-1 tvg-name="TR: ViASAT HiSTORY HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png" group-title="TR BELGESEL",TR: ViASAT HiSTORY HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/494
+#EXTINF:-1 tvg-name="TR: ViASAT HiSTORY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png" group-title="TR BELGESEL",TR: ViASAT HiSTORY HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/110614
+#EXTINF:-1 tvg-id="yabantv.tr" tvg-name="TR: YABAN TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png" group-title="TR BELGESEL",TR: YABAN TV HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/484
+#EXTINF:-1 tvg-id="historychannel.tr" tvg-name="TR: History HD" group-title="TR BELGESEL",TR: History HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/497
+#EXTINF:-1 tvg-name="TR: DOCUBOX HD" group-title="TR BELGESEL",TR: DOCUBOX HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/110617
+#EXTINF:-1 tvg-name="TR: DOCUBOX HD+" group-title="TR BELGESEL",TR: DOCUBOX HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/17179
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TGRT BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TGRT_Belgesel_logo.png" group-title="TR BELGESEL",TR: TGRT BELGESEL
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/20601
+#EXTINF:-1 tvg-name="TR: INSIGHT TV HD+" group-title="TR BELGESEL",TR: INSIGHT TV HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/110619
+#EXTINF:-1 tvg-name="TR: INSIGHT TV HD" group-title="TR BELGESEL",TR: INSIGHT TV HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/67566
+#EXTINF:-1 tvg-name="TR: LOVE NATURE HD+" group-title="TR BELGESEL",TR: LOVE NATURE HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/110620
+#EXTINF:-1 tvg-name="TR: LOVE NATURE HD" group-title="TR BELGESEL",TR: LOVE NATURE HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/67567
+#EXTINF:-1 tvg-name="TR: OUTDOOR HD" group-title="TR BELGESEL",TR: OUTDOOR HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/67568
+#EXTINF:-1 tvg-name="TR: DMAX HD+" tvg-logo="https://static.epg.best/it/DMAX.it.png" group-title="TR BELGESEL",TR: DMAX HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/67565
+#EXTINF:-1 tvg-name="TR: DMAX HD" tvg-logo="https://static.epg.best/it/DMAX.it.png" group-title="TR BELGESEL",TR: DMAX HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/492
+#EXTINF:-1 tvg-name="TR: NATIONAL GEOGRAPHIC HD+" group-title="TR BELGESEL",TR: NATIONAL GEOGRAPHIC HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/17121
+#EXTINF:-1 tvg-name="TR: National Geographic HD" group-title="TR BELGESEL",TR: National Geographic HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/67570
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-name="TR: NAT GEO WILD HD+" tvg-logo="https://static.epg.best/it/NatGeoWild.it.png" group-title="TR BELGESEL",TR: NAT GEO WILD HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/486
+#EXTINF:-1 tvg-name="TR: Nat Geo Wild HD" tvg-logo="https://static.epg.best/it/NatGeoWild.it.png" group-title="TR BELGESEL",TR: Nat Geo Wild HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/67569
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TR: TRT BELGESEL HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-belgesel-tr.png" group-title="TR BELGESEL",TR: TRT BELGESEL HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/485
+#EXTINF:-1 tvg-name="TR: TRT Belgesel HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-belgesel-tr.png" group-title="TR BELGESEL",TR: TRT Belgesel HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/67571
