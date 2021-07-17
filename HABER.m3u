@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="#### HABER KANALLARI ####" group-title="TR HABER",#### HABER KANALLARI ####
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/120
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TR: TRT HABER HD+" tvg-logo="http://iptvtelekom.com/newpicon/trthaber.png" group-title="TR HABER",TR: TRT HABER HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/418
+#EXTINF:-1 tvg-name="TR: TRT HABER HD" tvg-logo="http://iptvtelekom.com/newpicon/trthaber.png" group-title="TR HABER",TR: TRT HABER HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/403
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="TR: HABER TURK HD+" tvg-logo="http://iptvtelekom.com/newpicon/haberturk.png" group-title="TR HABER",TR: HABER TURK HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/419
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="TR: HABER TURK HD" tvg-logo="http://iptvtelekom.com/newpicon/haberturk.png" group-title="TR HABER",TR: HABER TURK HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/404
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="TR: A HABER HD+" tvg-logo="http://iptvtelekom.com/newpicon/ahaber.png" group-title="TR HABER",TR: A HABER HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/417
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="TR: A HABER HD" tvg-logo="http://iptvtelekom.com/newpicon/ahaber.png" group-title="TR HABER",TR: A HABER HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/400
+#EXTINF:-1 tvg-name="TR: A NEWS HD+" tvg-logo="http://iptvtelekom.com/newpicon/anews.png" group-title="TR HABER",TR: A NEWS HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/413
+#EXTINF:-1 tvg-name="TR: A PARA HD+" tvg-logo="http://iptvtelekom.com/newpicon/apara.png" group-title="TR HABER",TR: A PARA HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/421
+#EXTINF:-1 tvg-name="TR: A PARA HD+" tvg-logo="http://iptvtelekom.com/newpicon/apara.png" group-title="TR HABER",TR: A PARA HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/410
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="TR: CNN TURK HD+" tvg-logo="http://iptvtelekom.com/newpicon/cnnturk.png" group-title="TR HABER",TR: CNN TURK HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/423
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="TR: CNN TURK HD" tvg-logo="http://iptvtelekom.com/newpicon/cnnturk.png" group-title="TR HABER",TR: CNN TURK HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/412
+#EXTINF:-1 tvg-name="TR: CNN INTERNATIONAL HD+" tvg-logo="http://vodpictures.ddns.net/picons/logos/cnninternational.png" group-title="TR HABER",TR: CNN INTERNATIONAL HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/66913
+#EXTINF:-1 tvg-name="TR: GLOBAL HABER HD+" tvg-logo="http://176.9.134.196:2086/logos/haber-global.png" group-title="TR HABER",TR: GLOBAL HABER HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/422
+#EXTINF:-1 tvg-name="TR: GLOBAL HABER HD" tvg-logo="http://176.9.134.196:2086/logos/haber-global.png" group-title="TR HABER",TR: GLOBAL HABER HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/411
+#EXTINF:-1 tvg-name="TR: NTV HABER HD+" tvg-logo="http://iptvtelekom.com/newpicon/ntv.png" group-title="TR HABER",TR: NTV HABER HD+
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/406
+#EXTINF:-1 tvg-name="TR: NTV HABER HD" tvg-logo="http://iptvtelekom.com/newpicon/ntv.png" group-title="TR HABER",TR: NTV HABER HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/405
+#EXTINF:-1 tvg-name="TR: TELE 1" tvg-logo="http://iptvtelekom.com/newpicon/tele1.png" group-title="TR HABER",TR: TELE 1
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/4812
+#EXTINF:-1 tvg-name="TR: TV 100 HD" tvg-logo="http://iptvtelekom.com/newpicon/tv100.png" group-title="TR HABER",TR: TV 100 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/414
+#EXTINF:-1 tvg-name="TR: HALK TV HD" tvg-logo="http://iptvtelekom.com/newpicon/halktv.png" group-title="TR HABER",TR: HALK TV HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/415
+#EXTINF:-1 tvg-id="ulusalkanal.tr" tvg-name="TR: ULUSAL KANAL" tvg-logo="http://176.9.134.196:2086/logos/ulusal-kanal.png" group-title="TR HABER",TR: ULUSAL KANAL
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/7548
+#EXTINF:-1 tvg-id="bloomberght.tr" tvg-name="TR: Bloomberg HT" tvg-logo="http://iptvtelekom.com/newpicon/bloomberg.png" group-title="TR HABER",TR: Bloomberg HT
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/7554
+#EXTINF:-1 tvg-name="TR: KANAL 24 HD" tvg-logo="http://iptvtelekom.com/newpicon/kanal24.png" group-title="TR HABER",TR: KANAL 24 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/408
+#EXTINF:-1 tvg-name="TR: KRT TV HD" tvg-logo="http://iptvtelekom.com/newpicon/krttv.png" group-title="TR HABER",TR: KRT TV HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/416
+#EXTINF:-1 tvg-name="TR: 360 HD" tvg-logo="http://iptvtelekom.com/newpicon/360hd.png" group-title="TR HABER",TR: 360 HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/409
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TGRT HABER HD" tvg-logo="http://iptvtelekom.com/newpicon/tgrthaber.png" group-title="TR HABER",TR: TGRT HABER HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/407
+#EXTINF:-1 tvg-name="TR: ULKETV HD" tvg-logo="http://iptvtelekom.com/newpicon/ulketv.png" group-title="TR HABER",TR: ULKETV HD
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/401
+#EXTINF:-1 tvg-name="TR: UZAY HABER" tvg-logo="http://iptvtelekom.com/newpicon/uzay.png" group-title="TR HABER",TR: UZAY HABER
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/402
+#EXTINF:-1 tvg-name="TR: BRT 3" group-title="TR HABER",TR: BRT 3
+http://feed.xruistream.com:8080/nuriyeceylan/fVa8sUNyxC/114884
